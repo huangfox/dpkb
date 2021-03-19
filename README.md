@@ -8,6 +8,10 @@
 - [饿了么元数据管理实践之路](https://dbaplus.cn/news-73-2143-1.html)    2018-07    dbaplus
 
 
+## 数据治理
+- [美团配送数据治理实践](https://tech.meituan.com/2020/03/12/delivery-data-governance.html)    2020-03    美团技术团队
 
 
 
+## 有态度的技术博客
+- [美团技术团队](https://tech.meituan.com/)
