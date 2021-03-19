@@ -2,7 +2,16 @@
 大数据相关文章汇总（知识库）
 
 
-## 一、开源组件
+
+## 一、大数据架构
+- [SQL on Hadoop 在快手大数据平台的实践与优化](https://www.infoq.cn/article/BN9cJjg1t-QSWE6fqkoR)    2019-06
+- [携程机票大数据架构最佳实践](https://dbaplus.cn/news-73-1420-1.html)    2017-08
+
+
+
+
+
+## 二、开源组件
 
 ### Presto
 
@@ -17,11 +26,14 @@
 - [携程 Presto 技术演进之路](https://zhuanlan.zhihu.com/p/41538472)    2018-08
 - [Presto实现原理和美团的使用实践](https://tech.meituan.com/2014/06/16/presto.html)    2014-06
 
-#### 3）架构、源码分析
+#### 3）专栏
 - [Presto架构、源码分析专栏](columns/Presto架构、源码分析专栏.md)
 
 
-## 二、数仓建设
+
+
+
+## 三、数仓建设
 
 ### 数据治理
 - [美团配送数据治理实践](https://tech.meituan.com/2020/03/12/delivery-data-governance.html)    2020-03
@@ -33,6 +45,11 @@
 
 ### 待分类
 - [OneData建设探索之路：SaaS收银运营数仓建设](https://tech.meituan.com/2019/10/17/meituan-saas-data-warehouse.html)    2019-10
-## 有态度的技术博客
+
+
+
+
+
+## 四、资源汇总
 - [美团技术团队](https://tech.meituan.com/)
 - [有赞技术团队](https://tech.youzan.com/)
