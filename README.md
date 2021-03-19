@@ -18,7 +18,7 @@
 - [Presto实现原理和美团的使用实践](https://tech.meituan.com/2014/06/16/presto.html)    2014-06    美团技术团队
 
 #### 3）架构、源码分析
-- [Presto架构、源码分析专栏.md](columns/Presto架构、源码分析专栏.md)
+- [Presto架构、源码分析专栏](columns/Presto架构、源码分析专栏.md)
 
 
 ## 二、数仓建设
