@@ -19,10 +19,11 @@
 - [PrestoDB官网](https://prestodb.io/)
 - [Trino官网 原PrestoSql](https://trino.io/)
 
-#### 2）大厂实践（发布时间倒序）
+#### 2）大厂实践
 - [Presto在车好多的实践](https://mp.weixin.qq.com/s/Bmqv54sVZgTqQ82I_RfmsA)    2020-12
 - [Presto在滴滴的探索与实践](https://zhuanlan.zhihu.com/p/266162270)    2020-10
 - [Presto 在有赞的实践之路](https://tech.youzan.com/presto-zai-you-zan-de-shi-jian-zhi-lu/)    2020-04
+- [PrestoCon 2020：云原生数据湖分析DLA的Presto实践](https://zhuanlan.zhihu.com/p/260784762)    2020-03
 - [携程 Presto 技术演进之路](https://zhuanlan.zhihu.com/p/41538472)    2018-08
 - [Presto实现原理和美团的使用实践](https://tech.meituan.com/2014/06/16/presto.html)    2014-06
 
