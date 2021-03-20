@@ -28,6 +28,7 @@
 
 
 ### SQL解析、执行计划生成与优化
+- [Presto 源码分析：Coordinator 篇](https://www.infoq.cn/article/VNe0A9yKszPCmp32akCa)    2019-12
 - [Presto SQL Parser源码分析](https://zhuanlan.zhihu.com/p/57438825)    2019-02
 - [Presto 源码阅读：Optimizers](https://zhuanlan.zhihu.com/p/52154130)    2019-01
 - [Presto逻辑执行计划生成](https://zhuanlan.zhihu.com/p/57395047)    2019-02
@@ -75,50 +76,14 @@
 - [Presto Codegen简介与优化尝试](https://zhuanlan.zhihu.com/p/53469238)    2018-12
 - [Presto Procedure](https://zhuanlan.zhihu.com/p/59159147)    2019-03
 - [How is data inserted into Presto?](https://zhuanlan.zhihu.com/p/59846328)    2019-03
-
-
-
-
-
-
-
-## 3）最佳实践、调优
 - [Presto兼容Hive SQL的一些改造工作](http://armsword.com/2019/03/31/presto-compatible-hive-syntax/)    2019-03
-- [Presto的ETL之路](https://zhuanlan.zhihu.com/p/53996153)    2019-01
-- [Presto的应用场景与企业案例](https://zhuanlan.zhihu.com/p/260653669)    2020-10
-### 性能调优
-- [Presto性能调优的五大技巧](https://zhuanlan.zhihu.com/p/162809568)    2020-07
-
-
-### 内存调优
-- [Presto内存管理原理和调优](http://armsword.com/2018/05/22/the-memory-management-and-tuning-experience-of-presto/)    2018-05
-- [Presto内存管理相关参数设置](http://armsword.com/2019/11/13/the-configuration-settings-of-presto-memory-management/)    2019-11
-- [Presto集群内存不足时保护机制](http://armsword.com/2020/02/18/presto-memory-kill-policy/)    2020-02
-
-
-### 技术选型
-- [PrestoDB VS PrestoSQL发展比较](https://zhuanlan.zhihu.com/p/87621360)    2019-10
-- [PrestoDB和PrestoSQL比较及选择](http://armsword.com/2020/05/02/the-difference-between-prestodb-and-prestosql/)    2020-05
-
-
-
-
-## 4）问题排查（踩坑）
-- [说下那些导致Presto查询变慢的JVM Bug和解决方法](http://armsword.com/2021/02/07/jvm-bug-causes-Presto-queries-to-slow-down/)    2021-02
-- [Presto Master JVM Core问题调研](http://armsword.com/2020/12/10/solve-presto-jvm-coredump/)    2020-12
-- [Jetty导致Presto堆外内存泄露的排查过程](http://armsword.com/2020/06/23/jetty-cause-presto-memory-leak/)    2020-06
-- [记一次Presto Worker OOM的查找过程](http://armsword.com/2020/06/03/the-solution-of-presto-oom-caused-by-orc-statistics/)    2020-06
-- [Presto System load过高问题调研](http://armsword.com/2019/09/18/solve-presto-system-load-too-high/)    2019-09
-- [一次 Presto 的连接数超限的问题定位](https://zhuanlan.zhihu.com/p/57956341)    2019-03
-- [Presto Codegen问题排查案例](https://zhuanlan.zhihu.com/p/66243773)    2019-05
 
 
 
 
 
 
-
-## 5）相关论文
+## 3）相关论文
 - [官方论文《Presto: SQL on everything》](https://trino.io/Presto_SQL_on_Everything.pdf)    [中文翻译](https://www.jianshu.com/p/de0a1de9f26e)
 - [《F1 Query: Declarative Querying at Scale》读后感](https://zhuanlan.zhihu.com/p/53299556)    2018-12
 - [《Column-Stores vs. Row-Stores》读后感](https://zhuanlan.zhihu.com/p/54433448)    2019-01    abei-知乎
@@ -133,21 +98,13 @@
 
 
 
-## 6）技术博客、专栏
-- [Presto知乎专栏](https://www.zhihu.com/column/presto-cn)
-- [若飞-技术博客](http://armsword.com/archives/)
 
 
 
 
 
-## 7）书籍
-- 《Presto: The Definitive Guide》
-- 《Presto技术内幕》    京东Presto团队
 
 
 
 
-## 8）其他
-- [Presto Meetup Oct 2019](https://zhuanlan.zhihu.com/p/88350254)    2019-10
-- [惊闻Facebook开源大数据引擎Presto团队正在分裂](https://zhuanlan.zhihu.com/p/55628236)    2019-01
+

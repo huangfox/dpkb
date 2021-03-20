@@ -16,8 +16,15 @@
 ### Presto
 
 #### 1）官网、社区、博客
-- [PrestoDB官网](https://prestodb.io/)
-- [Trino官网 原PrestoSql](https://trino.io/)
+- [PrestoDB 官网](https://prestodb.io/)
+- [Trino 官网](https://trino.io/)     原PrestoSql
+- [PrestoDB Blog](https://prestodb.io/blog/index.html)
+- [Trino Blog](https://trino.io/blog/)
+- [PrestoDB github](https://github.com/prestodb/presto)
+- [Trino github](https://github.com/trinodb/trino)
+- [Google Presto Group](https://groups.google.com/g/presto-users)
+- [Presto知乎专栏](https://www.zhihu.com/column/presto-cn)
+- [若飞-技术博客](http://armsword.com/archives/)
 
 #### 2）大厂实践
 - [Presto在车好多的实践](https://mp.weixin.qq.com/s/Bmqv54sVZgTqQ82I_RfmsA)    2020-12
@@ -29,6 +36,21 @@
 
 #### 3）专栏
 - [Presto架构、源码分析专栏](columns/Presto架构、源码分析专栏.md)
+- [Presto最佳实践、调优、踩坑专栏](columns/Presto最佳实践、调优、踩坑专栏.md)
+
+#### 4）书籍
+- [《Presto: The Definitive Guide》](https://trino.io/blog/2020/04/11/the-definitive-guide.html)
+- [《Presto技术内幕》](https://book.douban.com/subject/26855863/)    京东Presto团队
+
+
+#### 5）会议、资讯、八卦
+- [Presto Meetup Oct 2019](https://zhuanlan.zhihu.com/p/88350254)    2019-10
+- [惊闻Facebook开源大数据引擎Presto团队正在分裂](https://zhuanlan.zhihu.com/p/55628236)    2019-01
+- [与 Facebook 分手后 ，PrestoSQL 再度因商标侵权被迫更名](https://www.infoq.cn/article/WmH0WXhqsWqpHDm6PpjC)    2021-01
+
+
+
+
 
 
 
