@@ -3,15 +3,10 @@
 
 
 
-## 一、大数据架构
-- [SQL on Hadoop 在快手大数据平台的实践与优化](https://www.infoq.cn/article/BN9cJjg1t-QSWE6fqkoR)    2019-06
-- [携程机票大数据架构最佳实践](https://dbaplus.cn/news-73-1420-1.html)    2017-08
 
 
 
-
-
-## 二、开源组件
+## 一、开源组件
 
 ### HDFS
 
@@ -39,6 +34,7 @@
 - [Presto知乎专栏](https://www.zhihu.com/column/presto-cn)
 - [若飞-技术博客](http://armsword.com/archives/)
 
+
 #### 2）大厂实践
 - [Presto在车好多的实践](https://mp.weixin.qq.com/s/Bmqv54sVZgTqQ82I_RfmsA)    2020-12
 - [Presto在滴滴的探索与实践](https://zhuanlan.zhihu.com/p/266162270)    2020-10
@@ -47,9 +43,11 @@
 - [携程 Presto 技术演进之路](https://zhuanlan.zhihu.com/p/41538472)    2018-08
 - [Presto实现原理和美团的使用实践](https://tech.meituan.com/2014/06/16/presto.html)    2014-06
 
+
 #### 3）专栏
 - [Presto架构、源码分析专栏](columns/Presto架构、源码分析专栏.md)
 - [Presto最佳实践、调优、踩坑专栏](columns/Presto最佳实践、调优、踩坑专栏.md)
+
 
 #### 4）书籍
 - [《Presto: The Definitive Guide》](https://trino.io/blog/2020/04/11/the-definitive-guide.html)
@@ -77,6 +75,7 @@
 
 
 
+
 ### HBase
 - [HBase Bulkload 实践探讨](https://tech.youzan.com/hbase-bulkloadshi-practice/)    2019-12
 
@@ -92,7 +91,20 @@
 
 
 
-## 三、数仓建设
+
+
+## 二、大数据架构
+- [SQL on Hadoop 在快手大数据平台的实践与优化](https://www.infoq.cn/article/BN9cJjg1t-QSWE6fqkoR)    2019-06
+- [携程机票大数据架构最佳实践](https://dbaplus.cn/news-73-1420-1.html)    2017-08
+
+
+
+
+
+
+
+
+## 三、数仓、数据中台、数据湖
 - [有赞数据仓库实践之路](https://tech.youzan.com/dw-in-youzan/)    2020-03
 - [OneData建设探索之路：SaaS收银运营数仓建设](https://tech.meituan.com/2019/10/17/meituan-saas-data-warehouse.html)    2019-10
 
@@ -120,15 +132,13 @@
 - [有赞BI平台实现原理](https://tech.youzan.com/principle-on-bi-platform/)    2021-01
 
 
-
-
-## 四、数据湖
+### 数据湖
 - [从自研到 Delta 到 Iceberg，网易严选数据湖建设实践](https://www.infoq.cn/article/SJr7sHxxVBczcl5ArCiF)    2021-03
 
 
 
 
-## 五、资源汇总
+## 四、资源汇总
 - [美团技术团队](https://tech.meituan.com/)
 - [有赞技术团队](https://tech.youzan.com/)
 - [滴滴云博客](https://blog.didiyun.com/)
