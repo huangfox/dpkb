@@ -13,6 +13,16 @@
 
 ## 二、开源组件
 
+
+### Hadoop
+
+
+
+### Hive
+- [HiveCube在有赞的实践](https://tech.youzan.com/cube/)    2019-07
+
+
+
 ### Presto
 
 #### 1）官网、社区、博客
@@ -43,7 +53,7 @@
 - [《Presto技术内幕》](https://book.douban.com/subject/26855863/)    京东Presto团队
 
 
-#### 5）会议、资讯、八卦
+#### 5）会议、资讯
 - [Presto Meetup Oct 2019](https://zhuanlan.zhihu.com/p/88350254)    2019-10
 - [惊闻Facebook开源大数据引擎Presto团队正在分裂](https://zhuanlan.zhihu.com/p/55628236)    2019-01
 - [与 Facebook 分手后 ，PrestoSQL 再度因商标侵权被迫更名](https://www.infoq.cn/article/WmH0WXhqsWqpHDm6PpjC)    2021-01
@@ -51,28 +61,69 @@
 
 
 
+### Spark
+- [SparkSQL在有赞大数据的实践（二）](https://tech.youzan.com/sparksql-in-youzan-2/)    2020-01
+
+
+
+
+
+### Flink
+- [Flink Checkpoint 原理流程以及常见失败原因分析](https://tech.youzan.com/flink_checkpoint_mechanism/)    2019-12
+
+
+
+### HBase
+- [HBase Bulkload 实践探讨](https://tech.youzan.com/hbase-bulkloadshi-practice/)    2019-12
+
+
+
+
+### ClickHouse
+
+- [ClickHouse 在有赞的实践之路](https://tech.youzan.com/clickhouse-zai-you-zan-de-shi-jian-zhi-lu/)    2021-01
+
 
 
 
 
 
 ## 三、数仓建设
+- [有赞数据仓库实践之路](https://tech.youzan.com/dw-in-youzan/)    2020-03
+- [OneData建设探索之路：SaaS收银运营数仓建设](https://tech.meituan.com/2019/10/17/meituan-saas-data-warehouse.html)    2019-10
 
-### 数据治理
+
+### 数据治理、数据资产
 - [美团配送数据治理实践](https://tech.meituan.com/2020/03/12/delivery-data-governance.html)    2020-03
+- [全链路数据治理在网易严选的实践](https://www.infoq.cn/article/FOV6aEWRGNOfhD91YVcr)    2020-10
+- [数据资产，赞之治理](https://tech.youzan.com/shu-ju-zi-chan-zan-zhi-zhi-li/)    2019-11
 
 
 ### 元数据管理
 - [有赞数据仓库元数据系统实践](https://tech.youzan.com/youzan-metadata/)    2018-08
 - [饿了么元数据管理实践之路](https://dbaplus.cn/news-73-2143-1.html)    2018-07
 
-### 待分类
-- [OneData建设探索之路：SaaS收银运营数仓建设](https://tech.meituan.com/2019/10/17/meituan-saas-data-warehouse.html)    2019-10
+
+### 指标系统
+- [有赞指标库实践](https://tech.youzan.com/you-zan-zhi-biao-ku-shi-jian/)    2020-03
+
+
+### 数据安全
+- [浅谈有赞大数据安全体系](https://tech.youzan.com/you-zan-da-shu-ju-an-quan-ti-xi-jian-she-shi-jian/)    2021-01
+
+
+### BI
+- [有赞BI平台实现原理](https://tech.youzan.com/principle-on-bi-platform/)    2021-01
 
 
 
 
+## 四、数据湖
+- [从自研到 Delta 到 Iceberg，网易严选数据湖建设实践](https://www.infoq.cn/article/SJr7sHxxVBczcl5ArCiF)    2021-03
 
-## 四、资源汇总
+
+
+
+## 五、资源汇总
 - [美团技术团队](https://tech.meituan.com/)
 - [有赞技术团队](https://tech.youzan.com/)
