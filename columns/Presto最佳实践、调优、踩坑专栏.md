@@ -39,5 +39,6 @@
 - [Presto System load过高问题调研](http://armsword.com/2019/09/18/solve-presto-system-load-too-high/)    2019-09
 - [一次 Presto 的连接数超限的问题定位](https://zhuanlan.zhihu.com/p/57956341)    2019-03
 - [Presto Codegen问题排查案例](https://zhuanlan.zhihu.com/p/66243773)    2019-05
-
+- [Presto coordinator的CPU持续上涨，原因竟然是这样](https://mayunlei.github.io/2019/05/20/Presto-coordinator%E7%9A%84CPU%E6%8C%81%E7%BB%AD%E4%B8%8A%E6%B6%A8%EF%BC%8C%E5%8E%9F%E5%9B%A0%E7%AB%9F%E7%84%B6%E6%98%AF%E8%BF%99%E6%A0%B7/)    2019-05
+- [Presto内存泄露问题调查](https://mayunlei.github.io/2019/09/02/Presto%E5%86%85%E5%AD%98%E6%B3%84%E9%9C%B2%E9%97%AE%E9%A2%98%E8%B0%83%E6%9F%A5/)    2019-09
 

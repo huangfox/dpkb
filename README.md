@@ -13,12 +13,10 @@
 
 ## 二、开源组件
 
-
-### Hadoop
-#### HDFS
+### HDFS
 
 
-#### YARN
+### YARN
 - [Hadoop YARN 在滴滴离线与实时计算中的应用](https://blog.didiyun.com/index.php/2018/12/11/hadoop-yarn/)    2018-12
 
 

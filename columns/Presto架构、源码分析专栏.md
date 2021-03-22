@@ -6,7 +6,7 @@
 - [分布式SQL查询引擎Presto原理介绍](http://armsword.com/2017/12/05/presto/)    2017-12
 - [深入理解Presto](https://zhuanlan.zhihu.com/p/101366898)    2020-01
 - [分布式SQL查询引擎原理（以Presto SQL为例）](https://zhuanlan.zhihu.com/p/293775390)    2020-11
-
+- [深入理解Presto,Presto的内部架构](https://mayunlei.github.io/2020/08/16/%E6%B7%B1%E5%85%A5%E7%90%86%E8%A7%A3Presto-Presto%E7%9A%84%E5%86%85%E9%83%A8%E6%9E%B6%E6%9E%84/)    2020-08
 
 
 
@@ -25,6 +25,7 @@
 - [Presto源码分析之数据类型](https://zhuanlan.zhihu.com/p/52713533)    2018-12
 - [Presto Core Data Structures: Slice, Block & Page](https://zhuanlan.zhihu.com/p/60813087)    2019-03
 - [Presto源码分析之Slice](https://zhuanlan.zhihu.com/p/52735465)    2018-12
+- [Presto Driver,Split and Pipeline](https://www.lewuathe.com/presto-driver,split-and-pipeline.html)    2017-05
 
 
 ### 2.3 SQL解析、执行计划生成与优化
@@ -34,6 +35,8 @@
 - [Presto逻辑执行计划生成](https://zhuanlan.zhihu.com/p/57395047)    2019-02
 - [Presto源码分析之IterativeOptimizer](https://zhuanlan.zhihu.com/p/52879375)    2018-12
 - [Presto源码分析之模式匹配](https://zhuanlan.zhihu.com/p/52916774)    2018-12
+- [Presto技术源码解析总结-一个SQL的奇幻之旅 上](https://www.jianshu.com/p/3fccfa82e1ec)    2019-04
+- [Presto技术源码解析总结-一个SQL的奇幻之旅 下](https://www.jianshu.com/p/d8a3d7488358)    2019-04
 
 
 ### 2.4 分布式任务调度、split生成与调度策略、work选择策略
@@ -44,7 +47,7 @@
 - [Presto调度task选择Worker方法](http://armsword.com/2020/04/08/presto-scheduling-task/)    2020-04
 - [presto中的AllAtOnce与Phased](https://zhuanlan.zhihu.com/p/61656233)    2019-05
 - [Presto运行时浅析](https://zhuanlan.zhihu.com/p/345733460)    2021-01
-
+- [Presto 任务调度： 任务分配到哪里](https://mayunlei.github.io/2020/05/30/Presto-%E4%BB%BB%E5%8A%A1%E8%B0%83%E5%BA%A6%EF%BC%9A-%E4%BB%BB%E5%8A%A1%E5%88%86%E9%85%8D%E5%88%B0%E5%93%AA%E9%87%8C/)    2020-05
 
 
 ### 2.5 常用Operator分析、常用SQL底层实现原理
@@ -80,8 +83,8 @@
 - [Presto Procedure](https://zhuanlan.zhihu.com/p/59159147)    2019-03
 - [How is data inserted into Presto?](https://zhuanlan.zhihu.com/p/59846328)    2019-03
 - [Presto兼容Hive SQL的一些改造工作](http://armsword.com/2019/03/31/presto-compatible-hive-syntax/)    2019-03
-
-
+- [Visualize Execution Plan in Presto](https://www.lewuathe.com/visualize-execution-plan-in-presto.html)    2019-09
+- [Presto Coordinator分布式改造](https://mayunlei.github.io/2019/11/26/Presto-Coordinator%E5%88%86%E5%B8%83%E5%BC%8F%E6%94%B9%E9%80%A0/)    2019-11
 
 
 
