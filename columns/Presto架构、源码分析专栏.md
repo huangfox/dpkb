@@ -37,6 +37,7 @@
 - [Presto源码分析之模式匹配](https://zhuanlan.zhihu.com/p/52916774)    2018-12
 - [Presto技术源码解析总结-一个SQL的奇幻之旅 上](https://www.jianshu.com/p/3fccfa82e1ec)    2019-04
 - [Presto技术源码解析总结-一个SQL的奇幻之旅 下](https://www.jianshu.com/p/d8a3d7488358)    2019-04
+- [Presto查询执行过程和索引条件下推分析](https://my.oschina.net/u/3920392/blog/4433266)    2020-05
 
 
 ### 2.4 分布式任务调度、split生成与调度策略、work选择策略
