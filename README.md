@@ -15,11 +15,16 @@
 
 
 ### Hadoop
+#### HDFS
 
+
+#### YARN
+- [Hadoop YARN 在滴滴离线与实时计算中的应用](https://blog.didiyun.com/index.php/2018/12/11/hadoop-yarn/)    2018-12
 
 
 ### Hive
 - [HiveCube在有赞的实践](https://tech.youzan.com/cube/)    2019-07
+- [Hive Metastore Federation 在滴滴的实践](https://blog.didiyun.com/index.php/2019/03/25/hive-metastore-federation/)    2019-03
 
 
 
@@ -62,7 +67,8 @@
 
 
 ### Spark
-- [SparkSQL在有赞大数据的实践（二）](https://tech.youzan.com/sparksql-in-youzan-2/)    2020-01
+- [SparkSQL 在有赞的实践](https://tech.youzan.com/sparksql-in-youzan/)    2019-01
+- [SparkSQL 在有赞大数据的实践（二）](https://tech.youzan.com/sparksql-in-youzan-2/)    2020-01
 
 
 
@@ -127,3 +133,4 @@
 ## 五、资源汇总
 - [美团技术团队](https://tech.meituan.com/)
 - [有赞技术团队](https://tech.youzan.com/)
+- [滴滴云博客](https://blog.didiyun.com/)
