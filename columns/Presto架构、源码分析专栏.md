@@ -76,7 +76,7 @@
 - [Presto ORC及其性能优化](http://armsword.com/2019/09/30/presto-orc-and-performance-optimization/)    2019-09
 - [Presto Hive MetaStore相关代码分析](https://zhuanlan.zhihu.com/p/109033118)    2020-02
 - [Presto Connector之SystemTable](https://zhuanlan.zhihu.com/p/60934739)    2019-03
-
+- [如何让Presto可以连接Hbase？文中含Hbase-Connect开发详解](https://www.analysys.cn/article/detail/20019023)    2018-11
 
 
 ### 2.8 其他

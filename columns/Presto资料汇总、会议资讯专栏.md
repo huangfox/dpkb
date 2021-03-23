@@ -15,6 +15,7 @@
 - [PrestoDB Slack](https://prestodb.slack.com)
 - [Trino Slack](https://trinodb.slack.com)
 - 公众号：Presto News
+- 公众号：FFCompute 
 
 
 ### 1.3 技术博客

@@ -63,6 +63,18 @@
 
 
 
+
+
+### Kudu
+- [Kudu官网](https://kudu.apache.org/)
+
+- [分布式存储系统Kudu与HBase的简要分析与对比](https://sq.163yun.com/blog/article/198870236065431552)    2018-11
+
+
+
+
+
+
 ### HBase
 - [HBase Bulkload 实践探讨](https://tech.youzan.com/hbase-bulkloadshi-practice/)    2019-12
 
