@@ -6,9 +6,13 @@
 ## 一、最佳实践
 - [Presto的ETL之路](https://zhuanlan.zhihu.com/p/53996153)    2019-01
 - [Presto的应用场景与企业案例](https://zhuanlan.zhihu.com/p/260653669)    2020-10
+
+
 ### 1.1 技术选型
 - [PrestoDB VS PrestoSQL发展比较](https://zhuanlan.zhihu.com/p/87621360)    2019-10
 - [PrestoDB和PrestoSQL比较及选择](http://armsword.com/2020/05/02/the-difference-between-prestodb-and-prestosql/)    2020-05
+
+
 ### 1.2 大厂实践
 - [Presto在车好多的实践](https://mp.weixin.qq.com/s/Bmqv54sVZgTqQ82I_RfmsA)    2020-12
 - [Presto在滴滴的探索与实践](https://zhuanlan.zhihu.com/p/266162270)    2020-10
@@ -26,8 +30,7 @@
 - [Presto内存管理原理和调优](http://armsword.com/2018/05/22/the-memory-management-and-tuning-experience-of-presto/)    2018-05
 - [Presto内存管理相关参数设置](http://armsword.com/2019/11/13/the-configuration-settings-of-presto-memory-management/)    2019-11
 - [Presto集群内存不足时保护机制](http://armsword.com/2020/02/18/presto-memory-kill-policy/)    2020-02
-
-
+- [火焰图在Presto YGC优化中的应用](https://mp.weixin.qq.com/s/BZG7Av5f9HH9gueVF8ABvQ)    2020-03
 
 
 

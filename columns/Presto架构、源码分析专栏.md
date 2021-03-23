@@ -2,12 +2,11 @@
 
 ## 一、原理、架构
 - [Presto概述：特性、原理、架构](https://zhuanlan.zhihu.com/p/260399749)    2020-10
-- [Presto的一些基本概念](http://armsword.com/2018/08/11/the-basic-concepts-of-presto/)    2018-08
 - [分布式SQL查询引擎Presto原理介绍](http://armsword.com/2017/12/05/presto/)    2017-12
 - [深入理解Presto](https://zhuanlan.zhihu.com/p/101366898)    2020-01
 - [分布式SQL查询引擎原理（以Presto SQL为例）](https://zhuanlan.zhihu.com/p/293775390)    2020-11
 - [深入理解Presto,Presto的内部架构](https://mayunlei.github.io/2020/08/16/%E6%B7%B1%E5%85%A5%E7%90%86%E8%A7%A3Presto-Presto%E7%9A%84%E5%86%85%E9%83%A8%E6%9E%B6%E6%9E%84/)    2020-08
-
+- [Presto 分布式SQL查询引擎及原理分析](https://mp.weixin.qq.com/s?__biz=MzI5MDEzMzg5Nw==&mid=2660400264&idx=1&sn=ebff65980ef45f7dffea1e5ec7d51fdc&chksm=f7425e6ec035d778dcc5704babe5241d8c80f3d21059434b00d8d4c46d9ce0bd232467ec92a6&scene=21#wechat_redirect)    2020-05
 
 
 
@@ -15,9 +14,10 @@
 
 ## 二、源码分析
 
-### 2.1 源码分析思路、方法论
+### 2.1 前期准备
 - [如何快速掌握Presto源码：思路和经验](https://zhuanlan.zhihu.com/p/262236892)    2020-10
 - [Presto 源码阅读： Overview](https://zhuanlan.zhihu.com/p/51393518)    2018-12
+- [Presto的一些基本概念](http://armsword.com/2018/08/11/the-basic-concepts-of-presto/)    2018-08
 
 
 ### 2.2 数据类型、Query Execution Model
@@ -37,17 +37,18 @@
 - [Presto源码分析之模式匹配](https://zhuanlan.zhihu.com/p/52916774)    2018-12
 - [Presto技术源码解析总结-一个SQL的奇幻之旅 上](https://www.jianshu.com/p/3fccfa82e1ec)    2019-04
 - [Presto技术源码解析总结-一个SQL的奇幻之旅 下](https://www.jianshu.com/p/d8a3d7488358)    2019-04
-- [Presto查询执行过程和索引条件下推分析](https://my.oschina.net/u/3920392/blog/4433266)    2020-05
+- [Presto查询执行过程和索引条件下推分析](https://mp.weixin.qq.com/s?src=11&timestamp=1616394200&ver=2961&signature=E7fzfl-wO5wGpohLLkE8v9hRKn5GR1TbVwU-N6Hl11T0Xl6TtlgCbhJmisPs*Z-hYiprO0yYK91O5GR0m-V-s5kvv6NudfeWMGW4iPXdAdetAfDAo4EITB9l*yZajiJS&new=1)    2020-05
 
 
 ### 2.4 分布式任务调度、split生成与调度策略、work选择策略
-- [Presto之Task执行框架](https://zhuanlan.zhihu.com/p/54172313)    2019-01
+- [Presto运行时浅析](https://zhuanlan.zhihu.com/p/345733460)    2021-01
+- [Presto源码阅读——如何获取Hive中的Metadata(HMS+HDFS)](https://blog.csdn.net/huang_quanlong/article/details/80380474)    2018-07
 - [Presto如何构建和使用海量Hive Splits](https://zhuanlan.zhihu.com/p/344559757)    2021-01
+- [Presto之Task执行框架](https://zhuanlan.zhihu.com/p/54172313)    2019-01
 - [Presto 是如何 schedule task 的?](https://zhuanlan.zhihu.com/p/58959725)    2019-03
 - [Presto 由Stage到Task的旅程](https://zhuanlan.zhihu.com/p/55785284)    2019-01
 - [Presto调度task选择Worker方法](http://armsword.com/2020/04/08/presto-scheduling-task/)    2020-04
 - [presto中的AllAtOnce与Phased](https://zhuanlan.zhihu.com/p/61656233)    2019-05
-- [Presto运行时浅析](https://zhuanlan.zhihu.com/p/345733460)    2021-01
 - [Presto 任务调度： 任务分配到哪里](https://mayunlei.github.io/2020/05/30/Presto-%E4%BB%BB%E5%8A%A1%E8%B0%83%E5%BA%A6%EF%BC%9A-%E4%BB%BB%E5%8A%A1%E5%88%86%E9%85%8D%E5%88%B0%E5%93%AA%E9%87%8C/)    2020-05
 
 
@@ -56,9 +57,11 @@
 - [Presto中coalesce函数的实现与Expression Codegen](https://zhuanlan.zhihu.com/p/64131496)    2019-04
 - [Presto Limit 类算子分析](https://zhuanlan.zhihu.com/p/62448395)    2019-04
 - [Presto分页功能概述](https://zhuanlan.zhihu.com/p/57030465)    2019-02
+
 #### join、shuffle
 - [Presto 数据如何进行shuffle](https://zhuanlan.zhihu.com/p/61565957)    2019-04
 - [Presto中的Hash Join](https://zhuanlan.zhihu.com/p/54731892)    2019-03
+
 #### 分组聚合
 - [Presto中的分组聚合查询流程](https://zhuanlan.zhihu.com/p/54385845)    2019-01
 - [深入理解Presto中的Group By查询](https://zhuanlan.zhihu.com/p/67742519)    2019-09
@@ -84,8 +87,8 @@
 - [Presto Procedure](https://zhuanlan.zhihu.com/p/59159147)    2019-03
 - [How is data inserted into Presto?](https://zhuanlan.zhihu.com/p/59846328)    2019-03
 - [Presto兼容Hive SQL的一些改造工作](http://armsword.com/2019/03/31/presto-compatible-hive-syntax/)    2019-03
-- [Visualize Execution Plan in Presto](https://www.lewuathe.com/visualize-execution-plan-in-presto.html)    2019-09
 - [Presto Coordinator分布式改造](https://mayunlei.github.io/2019/11/26/Presto-Coordinator%E5%88%86%E5%B8%83%E5%BC%8F%E6%94%B9%E9%80%A0/)    2019-11
+- [Visualize Execution Plan in Presto](https://www.lewuathe.com/visualize-execution-plan-in-presto.html)    2019-09
 
 
 

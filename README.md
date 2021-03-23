@@ -94,7 +94,7 @@
 ## 三、数仓、数据中台、数据湖
 - [有赞数据仓库实践之路](https://tech.youzan.com/dw-in-youzan/)    2020-03
 - [OneData建设探索之路：SaaS收银运营数仓建设](https://tech.meituan.com/2019/10/17/meituan-saas-data-warehouse.html)    2019-10
-
+- [SQL解析在美团的应用](https://tech.meituan.com/2018/05/20/sql-parser-used-in-mtdp.html)    2018-05
 
 ### 数据治理、数据资产
 - [美团配送数据治理实践](https://tech.meituan.com/2020/03/12/delivery-data-governance.html)    2020-03

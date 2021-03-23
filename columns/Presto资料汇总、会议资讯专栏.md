@@ -9,8 +9,12 @@
 - [PrestoDB github](https://github.com/prestodb/presto)
 - [Trino github](https://github.com/trinodb/trino)
 
+
 ### 1.2 讨论区（群组、公众号等）
 - [Google Presto Group](https://groups.google.com/g/presto-users)
+- [PrestoDB Slack](https://prestodb.slack.com)
+- [Trino Slack](https://trinodb.slack.com)
+- 公众号：Presto News
 
 
 ### 1.3 技术博客
@@ -34,6 +38,7 @@
 ## 三、会议、资讯
 ### 3.1 会议
 - [Presto Meetup Oct 2019](https://zhuanlan.zhihu.com/p/88350254)    2019-10
+
 
 ### 3.2 资讯
 - [惊闻Facebook开源大数据引擎Presto团队正在分裂](https://zhuanlan.zhihu.com/p/55628236)    2019-01
