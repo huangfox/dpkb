@@ -89,6 +89,9 @@
 - [Presto兼容Hive SQL的一些改造工作](http://armsword.com/2019/03/31/presto-compatible-hive-syntax/)    2019-03
 - [Presto Coordinator分布式改造](https://mayunlei.github.io/2019/11/26/Presto-Coordinator%E5%88%86%E5%B8%83%E5%BC%8F%E6%94%B9%E9%80%A0/)    2019-11
 - [Visualize Execution Plan in Presto](https://www.lewuathe.com/visualize-execution-plan-in-presto.html)    2019-09
+- [Presto兼容Hive隐式类型转换](https://mp.weixin.qq.com/s/1hn3nVBdBtBeiPl3wxvHfQ)    2021-02
+- [Presto 标量函数注册和调用过程简述](https://mp.weixin.qq.com/s/vd65OVeIOH7YFQ0QOAmsUg)    2020-09
+- [Presto 函数实现简述](https://mp.weixin.qq.com/s/1Z_qik61N3hKwWqG8QR69w)    2020-07
 
 
 

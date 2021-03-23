@@ -31,6 +31,8 @@
 - [Presto内存管理相关参数设置](http://armsword.com/2019/11/13/the-configuration-settings-of-presto-memory-management/)    2019-11
 - [Presto集群内存不足时保护机制](http://armsword.com/2020/02/18/presto-memory-kill-policy/)    2020-02
 - [火焰图在Presto YGC优化中的应用](https://mp.weixin.qq.com/s/BZG7Av5f9HH9gueVF8ABvQ)    2020-03
+- [使用火焰图定位 OLAP 引擎瓶颈](https://mp.weixin.qq.com/s/pIYdeF0TtbGgV0Va35ejQg)    2021-03
+
 
 
 
