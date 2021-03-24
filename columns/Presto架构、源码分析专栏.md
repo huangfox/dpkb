@@ -40,7 +40,7 @@
 - [Presto查询执行过程和索引条件下推分析](https://mp.weixin.qq.com/s?src=11&timestamp=1616394200&ver=2961&signature=E7fzfl-wO5wGpohLLkE8v9hRKn5GR1TbVwU-N6Hl11T0Xl6TtlgCbhJmisPs*Z-hYiprO0yYK91O5GR0m-V-s5kvv6NudfeWMGW4iPXdAdetAfDAo4EITB9l*yZajiJS&new=1)    2020-05
 
 
-### 2.4 分布式任务调度、split生成与调度策略、work选择策略
+### 2.4 分布式任务调度、split生成与调度策略、worker选择策略
 - [Presto运行时浅析](https://zhuanlan.zhihu.com/p/345733460)    2021-01
 - [Presto源码阅读——如何获取Hive中的Metadata(HMS+HDFS)](https://blog.csdn.net/huang_quanlong/article/details/80380474)    2018-07
 - [Presto如何构建和使用海量Hive Splits](https://zhuanlan.zhihu.com/p/344559757)    2021-01
