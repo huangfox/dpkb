@@ -57,8 +57,24 @@
 
 
 
+
+
 ### Flink
-- [Flink Checkpoint 原理流程以及常见失败原因分析](https://tech.youzan.com/flink_checkpoint_mechanism/)    2019-12
+#### 1）官网、社区、博客
+- [Flink官网](https://flink.apache.org/)
+- [Ververica Blog](https://www.ververica.com/blog?hsLang=en) 
+
+
+#### 2）教程推荐
+- [ververica - flink-sql-cookbook](https://github.com/ververica/flink-sql-cookbook/)
+
+
+#### 3）专栏
+- [Flink架构、源码分析专栏](columns/Flink架构、源码分析专栏.md)
+
+
+
+
 
 
 
