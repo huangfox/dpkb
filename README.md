@@ -62,11 +62,14 @@
 ### Flink
 #### 1）官网、社区、博客
 - [Flink官网](https://flink.apache.org/)
+- [Flink Blog](https://flink.apache.org/blog/)
 - [Ververica Blog](https://www.ververica.com/blog?hsLang=en) 
+
 
 
 #### 2）教程推荐
 - [ververica - flink-sql-cookbook](https://github.com/ververica/flink-sql-cookbook/)
+- [Apache Flink 漫谈系列](columns/Apache%20Flink%20漫谈系列.md)
 
 
 #### 3）专栏
