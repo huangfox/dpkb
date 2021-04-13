@@ -68,7 +68,6 @@
 - [Flink 知识图谱](https://ververica.cn/wp-content/uploads/2020/03/Apache-Flink-Stateful-Computations-over-Data-Streams.pdf)
 
 
-
 #### 2）教程推荐
 - [ververica - flink-sql-cookbook](https://github.com/ververica/flink-sql-cookbook/)
 - [Apache Flink 漫谈系列](columns/Apache%20Flink%20漫谈系列.md)
