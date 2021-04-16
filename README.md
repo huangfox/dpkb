@@ -112,11 +112,15 @@
 - [Calcite官网](http://calcite.incubator.apache.org/)
 - [Apache Calcite 处理流程详解（一）](https://matt33.com/2019/03/07/apache-calcite-process-flow/)    2019-03
 - [Apache Calcite 优化器详解（二）](https://matt33.com/2019/03/17/apache-calcite-planner/)    2019-03
+- [SQL解析在美团的应用](https://tech.meituan.com/2018/05/20/sql-parser-used-in-mtdp.html)    2018-05
 
 
 
 
-## 二、大数据架构
+
+## 二、大数据应用
+
+### 大数据架构
 - [SQL on Hadoop 在快手大数据平台的实践与优化](https://www.infoq.cn/article/BN9cJjg1t-QSWE6fqkoR)    2019-06
 - [携程机票大数据架构最佳实践](https://dbaplus.cn/news-73-1420-1.html)    2017-08
 
@@ -126,34 +130,32 @@
 
 
 
-
-## 三、数仓、数据中台、数据湖
+### 数仓相关
 - [有赞数据仓库实践之路](https://tech.youzan.com/dw-in-youzan/)    2020-03
 - [OneData建设探索之路：SaaS收银运营数仓建设](https://tech.meituan.com/2019/10/17/meituan-saas-data-warehouse.html)    2019-10
-- [SQL解析在美团的应用](https://tech.meituan.com/2018/05/20/sql-parser-used-in-mtdp.html)    2018-05
+- [有赞指标库实践](https://tech.youzan.com/you-zan-zhi-biao-ku-shi-jian/)    2020-03
+- [有赞BI平台实现原理](https://tech.youzan.com/principle-on-bi-platform/)    2021-01
+
+
+
+
+
+
 
 ### 数据治理、数据资产
 - [美团配送数据治理实践](https://tech.meituan.com/2020/03/12/delivery-data-governance.html)    2020-03
 - [全链路数据治理在网易严选的实践](https://www.infoq.cn/article/FOV6aEWRGNOfhD91YVcr)    2020-10
 - [数据资产，赞之治理](https://tech.youzan.com/shu-ju-zi-chan-zan-zhi-zhi-li/)    2019-11
-
-
-### 元数据管理
+- [浅谈有赞大数据安全体系](https://tech.youzan.com/you-zan-da-shu-ju-an-quan-ti-xi-jian-she-shi-jian/)    2021-01
 - [有赞数据仓库元数据系统实践](https://tech.youzan.com/youzan-metadata/)    2018-08
 - [饿了么元数据管理实践之路](https://dbaplus.cn/news-73-2143-1.html)    2018-07
 - [元数据管理系统解析](https://mp.weixin.qq.com/s?src=11&timestamp=1618555532&ver=3011&signature=j7T-s05mGRylTpswE-bYnmXDzbFtKd4lIoCHtDtcCJumP0JSKmxVg7iuZyu*aoZYu6ahwagxByeYoNnzIOPDsO5lVAyjrXKY3vRGLR99J9YlbW1Vlv6vtTfSOzCfeMnU&new=1)    2018-03
+- [数据治理方案技术调研 Atlas VS Datahub VS Amundsen](https://cloud.tencent.com/developer/article/1746714)    2020-11
 
 
-### 指标系统
-- [有赞指标库实践](https://tech.youzan.com/you-zan-zhi-biao-ku-shi-jian/)    2020-03
 
 
-### 数据安全
-- [浅谈有赞大数据安全体系](https://tech.youzan.com/you-zan-da-shu-ju-an-quan-ti-xi-jian-she-shi-jian/)    2021-01
 
-
-### BI
-- [有赞BI平台实现原理](https://tech.youzan.com/principle-on-bi-platform/)    2021-01
 
 
 ### 数据湖
@@ -162,7 +164,11 @@
 
 
 
-## 四、资源汇总
+
+
+
+
+## 三、资源汇总
 - [美团技术团队](https://tech.meituan.com/)
 - [有赞技术团队](https://tech.youzan.com/)
 - [滴滴云博客](https://blog.didiyun.com/)
