@@ -21,7 +21,7 @@
 
 
 
-### Presto
+### Presto、Trino
 
 #### 1）官网、社区、博客
 - [PrestoDB 官网](https://prestodb.io/)
@@ -76,7 +76,7 @@
 #### 3）专栏
 - [Flink架构、源码分析专栏](columns/Flink架构、源码分析专栏.md)
 - [Flink开源项目汇总](columns/Flink开源项目汇总.md)
-
+- [Flink实战系列](columns/Flink实战系列.md)
 
 
 
@@ -145,7 +145,7 @@
 ### 数据治理、数据资产
 - [美团配送数据治理实践](https://tech.meituan.com/2020/03/12/delivery-data-governance.html)    2020-03
 - [全链路数据治理在网易严选的实践](https://www.infoq.cn/article/FOV6aEWRGNOfhD91YVcr)    2020-10
-- [数据资产，赞之治理](https://tech.youzan.com/shu-ju-zi-chan-zan-zhi-zhi-li/)    2019-11
+- [数据资产、数据治理 - 有赞](https://tech.youzan.com/shu-ju-zi-chan-zan-zhi-zhi-li/)    2019-11
 - [浅谈有赞大数据安全体系](https://tech.youzan.com/you-zan-da-shu-ju-an-quan-ti-xi-jian-she-shi-jian/)    2021-01
 - [有赞数据仓库元数据系统实践](https://tech.youzan.com/youzan-metadata/)    2018-08
 - [饿了么元数据管理实践之路](https://dbaplus.cn/news-73-2143-1.html)    2018-07
@@ -169,7 +169,17 @@
 
 
 ## 三、资源汇总
+### 大厂技术博客
 - [美团技术团队](https://tech.meituan.com/)
 - [有赞技术团队](https://tech.youzan.com/)
 - [滴滴云博客](https://blog.didiyun.com/)
+
+## 大数据相关网站
 - [dbaplus](https://dbaplus.cn/)
+
+
+
+
+
+
+
