@@ -70,6 +70,8 @@
 
 #### 2）教程推荐
 - [ververica - flink-sql-cookbook](https://github.com/ververica/flink-sql-cookbook/)
+- [Flink零基础入门](columns/Flink零基础入门.md)
+- [Flink进阶教程](columns/Flink进阶教程.md)
 - [Apache Flink 漫谈系列](columns/Apache%20Flink%20漫谈系列.md)
 
 
