@@ -62,9 +62,9 @@
 
 
 #### 3）专栏
-- [Presto架构、源码分析专栏](columns/Presto架构、源码分析专栏.md)
-- [Presto最佳实践、调优、踩坑专栏](columns/Presto最佳实践、调优、踩坑专栏.md)
-- [Presto资料汇总、会议资讯专栏](columns/Presto资料汇总、会议资讯专栏.md)
+- [Presto架构、源码分析专栏](columns/presto/Presto架构、源码分析专栏.md)
+- [Presto最佳实践、调优、踩坑专栏](columns/presto/Presto最佳实践、调优、踩坑专栏.md)
+- [Presto资料汇总、会议资讯专栏](columns/presto/Presto资料汇总、会议资讯专栏.md)
 
 
 
@@ -90,6 +90,7 @@
 ### Flink
 #### 1）官网、社区、博客
 - [Flink官网](https://flink.apache.org/)
+- [Flink Confluence](https://cwiki.apache.org/confluence/display/FLINK/)
 - [Flink Blog](https://flink.apache.org/blog/)
 - [Ververica Blog](https://www.ververica.com/blog?hsLang=en) 
 - [Ververica 中文](https://ververica.cn/developers-resources/)
@@ -98,15 +99,15 @@
 
 #### 2）教程推荐
 - [ververica - flink-sql-cookbook](https://github.com/ververica/flink-sql-cookbook/)
-- [Flink零基础入门](columns/Flink零基础入门.md)
-- [Flink进阶教程](columns/Flink进阶教程.md)
-- [Apache Flink 漫谈系列](columns/Apache%20Flink%20漫谈系列.md)
+- [Flink零基础入门](columns/flink/Flink零基础入门.md)
+- [Flink进阶教程](columns/flink/Flink进阶教程.md)
+- [Apache Flink 漫谈系列](columns/flink/Apache%20Flink%20漫谈系列.md)
 
 
 #### 3）专栏
-- [Flink架构、源码分析专栏](columns/Flink架构、源码分析专栏.md)
-- [Flink开源项目汇总](columns/Flink开源项目汇总.md)
-- [Flink实战系列](columns/Flink实战系列.md)
+- [Flink架构、源码分析专栏](columns/flink/Flink架构、源码分析专栏.md)
+- [Flink开源项目汇总](columns/flink/Flink开源项目汇总.md)
+- [Flink实战系列](columns/flink/Flink实战系列.md)
 
 
 
