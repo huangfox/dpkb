@@ -95,7 +95,7 @@
 - [Ververica Blog](https://www.ververica.com/blog?hsLang=en) 
 - [Ververica 中文](https://ververica.cn/developers-resources/)
 - [Flink 知识图谱](https://ververica.cn/wp-content/uploads/2020/03/Apache-Flink-Stateful-Computations-over-Data-Streams.pdf)
-
+- [Jark's Blog - WuChong - 云邪](http://wuchong.me/)
 
 #### 2）教程推荐
 - [ververica - flink-sql-cookbook](https://github.com/ververica/flink-sql-cookbook/)

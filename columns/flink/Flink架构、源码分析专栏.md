@@ -45,7 +45,7 @@
 
 ## Connector
 - [漫谈 Flink Source 接口重构](http://www.whitewood.me/2020/02/11/%E6%BC%AB%E8%B0%88-Flink-Source-%E6%8E%A5%E5%8F%A3%E9%87%8D%E6%9E%84/)    2020-02
-
+- [Flink JDBC Connector：Flink 与数据库集成最佳实践](https://developer.aliyun.com/article/776069)
 
 
 ## Flink On YARN
