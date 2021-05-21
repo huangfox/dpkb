@@ -1,6 +1,6 @@
 # DPKB
 大数据相关文章汇总（知识库）
-持续更新中（2021-04）
+持续更新中（2021-05）
 
 
 
@@ -227,6 +227,32 @@
 
 
 
+### 相关开源项目
+- [atlas](https://github.com/apache/atlas)
+- [datahub](https://github.com/linkedin/datahub)
+
+
+- [DataX](https://github.com/alibaba/DataX)
+- [datax-web](https://github.com/WeiYe-Jing/datax-web)
+
+
+- [streamx](https://github.com/streamxhub/streamx)
+- [plink](https://github.com/hairless/plink)    Platform for Flink
+- [FlinkSQL](https://github.com/ambition119/FlinkSQL)
+- [flinkStreamSQL](https://github.com/DTStack/flinkStreamSQL)
+- [waterdrop](https://github.com/InterestingLab/waterdrop)
+
+
+- [DataSphereStudio](https://github.com/WeBankFinTech/DataSphereStudio)    微众银行
+- [wormhole](https://github.com/edp963/wormhole)    宜信
+- [big-whale](https://github.com/MeetYouDevs/big-whale)  
+- [lark](https://github.com/wxgzgl/lark)
+
+
+- [dolphinscheduler](https://github.com/apache/dolphinscheduler)
+
+
+- [davinci](https://github.com/edp963/davinci)
 
 
 
