@@ -1,6 +1,6 @@
 # DPKB
 大数据相关文章汇总（知识库）
-持续更新中（2021-05）
+持续更新中（2021-06）
 
 
 
@@ -30,6 +30,15 @@
 
 
 ### Hive
+#### 1) 官网、社区、博客
+- [Hive官网](https://hive.apache.org/)
+
+
+#### 2）教程推荐
+- [Hive教程](columns/hive/hive教程.md)
+
+
+#### 3）大厂实践
 - [HiveCube在有赞的实践](https://tech.youzan.com/cube/)    2019-07
 - [Hive Metastore Federation 在滴滴的实践](https://blog.didiyun.com/index.php/2019/03/25/hive-metastore-federation/)    2019-03
 
@@ -52,21 +61,19 @@
 - [若飞-技术博客](http://armsword.com/archives/)
 
 
-#### 2）大厂实践
+#### 2）专栏
+- [Presto架构、源码分析专栏](columns/presto/Presto架构、源码分析专栏.md)
+- [Presto最佳实践、调优、踩坑专栏](columns/presto/Presto最佳实践、调优、踩坑专栏.md)
+- [Presto资料汇总、会议资讯专栏](columns/presto/Presto资料汇总、会议资讯专栏.md)
+
+
+#### 3）大厂实践
 - [Presto在车好多的实践](https://mp.weixin.qq.com/s/Bmqv54sVZgTqQ82I_RfmsA)    2020-12
 - [Presto在滴滴的探索与实践](https://zhuanlan.zhihu.com/p/266162270)    2020-10
 - [Presto 在有赞的实践之路](https://tech.youzan.com/presto-zai-you-zan-de-shi-jian-zhi-lu/)    2020-04
 - [PrestoCon 2020：云原生数据湖分析DLA的Presto实践](https://zhuanlan.zhihu.com/p/260784762)    2020-03
 - [携程 Presto 技术演进之路](https://zhuanlan.zhihu.com/p/41538472)    2018-08
 - [Presto实现原理和美团的使用实践](https://tech.meituan.com/2014/06/16/presto.html)    2014-06
-
-
-#### 3）专栏
-- [Presto架构、源码分析专栏](columns/presto/Presto架构、源码分析专栏.md)
-- [Presto最佳实践、调优、踩坑专栏](columns/presto/Presto最佳实践、调优、踩坑专栏.md)
-- [Presto资料汇总、会议资讯专栏](columns/presto/Presto资料汇总、会议资讯专栏.md)
-
-
 
 
 
@@ -96,6 +103,7 @@
 - [Ververica 中文](https://ververica.cn/developers-resources/)
 - [Flink 知识图谱](https://ververica.cn/wp-content/uploads/2020/03/Apache-Flink-Stateful-Computations-over-Data-Streams.pdf)
 - [Jark's Blog - WuChong - 云邪](http://wuchong.me/)
+
 
 #### 2）教程推荐
 - [ververica - flink-sql-cookbook](https://github.com/ververica/flink-sql-cookbook/)
