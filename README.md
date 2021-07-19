@@ -1,6 +1,6 @@
 # DPKB
 大数据相关文章汇总（知识库）
-持续更新中（2021-06）
+持续更新中（2021-07）
 
 
 
@@ -128,6 +128,8 @@
 ### Kudu
 - [Kudu官网](https://kudu.apache.org/)
 
+- [Kudu论文解读: Fast Analytics on Fast Data (上)](https://zhuanlan.zhihu.com/p/137238298)    2020-04
+- [Kudu论文解读: Fast Analytics on Fast Data (下)](https://zhuanlan.zhihu.com/p/137243163)    2020-04
 - [分布式存储系统Kudu与HBase的简要分析与对比](https://sq.163yun.com/blog/article/198870236065431552)    2018-11
 
 
