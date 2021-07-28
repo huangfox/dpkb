@@ -132,7 +132,8 @@
 - [Kudu论文解读: Fast Analytics on Fast Data (下)](https://zhuanlan.zhihu.com/p/137243163)    2020-04
 - [分布式存储系统Kudu与HBase的简要分析与对比](https://sq.163yun.com/blog/article/198870236065431552)    2018-11
 
-
+#### 相关论文
+- [LSM Tree](https://www.cs.umb.edu/~poneil/lsmtree.pdf)
 
 
 
@@ -152,6 +153,15 @@
 - [ClickHouse 在有赞的实践之路](https://tech.youzan.com/clickhouse-zai-you-zan-de-shi-jian-zhi-lu/)    2021-01
 
 
+
+
+
+
+### Iceberg
+- [数据湖Iceberg | 实时数据仓库的发展、架构和趋势](https://mp.weixin.qq.com/s?__biz=MzIwNTUxNTI1Ng==&mid=2247485623&idx=1&sn=9f03a36dbfc06c712b6132faabaa1dfd&chksm=972ef820a05971360311fd69c686e4b420222cfa639a1bcb5648bece4c3d886ae8f981712d8c&scene=21#wechat_redirect)    2021-03
+- [数据湖Iceberg | Apache Iceberg快速入门](https://mp.weixin.qq.com/s?__biz=MzIwNTUxNTI1Ng==&mid=2247485637&idx=1&sn=0489f233e3bda2bcef221c9532bb001e&chksm=972ef852a0597144538b7807948443a27e58f99ba33d17a7bcb12ccb8b382fd1d712d6e80cbc&cur_album_id=1746684202856579076&scene=190#rd)    2021-03
+- [数据湖Iceberg | 如何正确使用Iceberg](https://mp.weixin.qq.com/s?__biz=MzIwNTUxNTI1Ng==&mid=2247485644&idx=1&sn=b2194d8f3c1e7cf7e8e8d9296b9025e2&chksm=972ef85ba059714dc69472e3860497389f2ca4503d2cddeedd348695b5c314da49aad0278978&cur_album_id=1746684202856579076&scene=190#rd)    2021-04
+- [数据湖Iceberg | 在网易云音乐的实践](https://mp.weixin.qq.com/s?__biz=MzIwNTUxNTI1Ng==&mid=2247485718&idx=1&sn=34347ac54e97877e4401ad37f1d15577&chksm=972ef981a059709724b7abab56786ef047a68f31fd829031d2214fa4994b9ec0f1b04e25318c&cur_album_id=1746684202856579076&scene=190#rd)    2021-04
 
 
 
@@ -202,15 +212,6 @@
 - [饿了么元数据管理实践之路](https://dbaplus.cn/news-73-2143-1.html)    2018-07
 - [元数据管理系统解析](https://mp.weixin.qq.com/s?src=11&timestamp=1618555532&ver=3011&signature=j7T-s05mGRylTpswE-bYnmXDzbFtKd4lIoCHtDtcCJumP0JSKmxVg7iuZyu*aoZYu6ahwagxByeYoNnzIOPDsO5lVAyjrXKY3vRGLR99J9YlbW1Vlv6vtTfSOzCfeMnU&new=1)    2018-03
 - [数据治理方案技术调研 Atlas VS Datahub VS Amundsen](https://cloud.tencent.com/developer/article/1746714)    2020-11
-
-
-
-
-
-
-
-### 数据湖
-- [从自研到 Delta 到 Iceberg，网易严选数据湖建设实践](https://www.infoq.cn/article/SJr7sHxxVBczcl5ArCiF)    2021-03
 
 
 

@@ -18,6 +18,7 @@
 - [如何快速掌握Presto源码：思路和经验](https://zhuanlan.zhihu.com/p/262236892)    2020-10
 - [Presto 源码阅读： Overview](https://zhuanlan.zhihu.com/p/51393518)    2018-12
 - [Presto的一些基本概念](http://armsword.com/2018/08/11/the-basic-concepts-of-presto/)    2018-08
+- [Presto/Trino权威指南及官方设计文档解读](https://www.jianshu.com/p/d3600d2a115d)    2021-05
 
 
 ### 2.2 数据类型、Query Execution Model
