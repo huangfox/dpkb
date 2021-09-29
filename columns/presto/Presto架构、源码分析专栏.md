@@ -93,6 +93,7 @@
 - [Presto兼容Hive隐式类型转换](https://mp.weixin.qq.com/s/1hn3nVBdBtBeiPl3wxvHfQ)    2021-02
 - [Presto 标量函数注册和调用过程简述](https://mp.weixin.qq.com/s/vd65OVeIOH7YFQ0QOAmsUg)    2020-09
 - [Presto 函数实现简述](https://mp.weixin.qq.com/s/1Z_qik61N3hKwWqG8QR69w)    2020-07
+- [Improved Hive Bucketing](https://trino.io/blog/2019/05/29/improved-hive-bucketing.html)
 
 
 
