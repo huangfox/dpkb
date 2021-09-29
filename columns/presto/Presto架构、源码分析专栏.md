@@ -51,6 +51,7 @@
 - [Presto调度task选择Worker方法](http://armsword.com/2020/04/08/presto-scheduling-task/)    2020-04
 - [presto中的AllAtOnce与Phased](https://zhuanlan.zhihu.com/p/61656233)    2019-05
 - [Presto 任务调度： 任务分配到哪里](https://mayunlei.github.io/2020/05/30/Presto-%E4%BB%BB%E5%8A%A1%E8%B0%83%E5%BA%A6%EF%BC%9A-%E4%BB%BB%E5%8A%A1%E5%88%86%E9%85%8D%E5%88%B0%E5%93%AA%E9%87%8C/)    2020-05
+- [Presto Split 详解](https://blog.csdn.net/zhanyuanlin/article/details/109215177)
 
 
 ### 2.5 常用Operator分析、常用SQL底层实现原理
