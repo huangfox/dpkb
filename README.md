@@ -74,7 +74,7 @@
 - [PrestoCon 2020：云原生数据湖分析DLA的Presto实践](https://zhuanlan.zhihu.com/p/260784762)    2020-03
 - [携程 Presto 技术演进之路](https://zhuanlan.zhihu.com/p/41538472)    2018-08
 - [Presto实现原理和美团的使用实践](https://tech.meituan.com/2014/06/16/presto.html)    2014-06
-
+- [Presto高性能引擎在美图的实践](https://zhuanlan.zhihu.com/p/408957032)    2021-09
 
 
 
