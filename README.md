@@ -8,18 +8,8 @@
 
 ## 一、开源组件
 
+### Hadoop
 
-### HDFS
-
-
-
-
-
-
-
-
-### YARN
-- [Hadoop YARN 在滴滴离线与实时计算中的应用](https://blog.didiyun.com/index.php/2018/12/11/hadoop-yarn/)    2018-12
 
 
 
@@ -30,11 +20,11 @@
 
 
 ### Hive
-#### 1) 官网、社区、博客
+#### 1）官网、社区、博客
 - [Hive官网](https://hive.apache.org/)
 
 
-#### 2）教程推荐
+#### 2）专栏
 - [Hive教程](columns/hive/hive教程.md)
 
 
@@ -52,7 +42,6 @@
 
 
 ### Presto、Trino
-
 #### 1）官网、社区、博客
 - [PrestoDB 官网](https://prestodb.io/)
 - [Trino 官网](https://trino.io/)     原PrestoSql
@@ -82,12 +71,11 @@
 
 
 ### Spark
-
 #### 1）官网、社区、博客
-- [Spark官网](https://spark.apache.org/)
+- [Spark 官网](https://spark.apache.org/)
 
 
-#### 2) 专栏
+#### 2）专栏
 - [Apache Spark的设计与实现](columns/spark/Apache%20Spark的设计与实现.md)
 
 
@@ -106,7 +94,7 @@
 
 ### Flink
 #### 1）官网、社区、博客
-- [Flink官网](https://flink.apache.org/)
+- [Flink 官网](https://flink.apache.org/)
 - [Flink Confluence](https://cwiki.apache.org/confluence/display/FLINK/)
 - [Flink Blog](https://flink.apache.org/blog/)
 - [Ververica Blog](https://www.ververica.com/blog?hsLang=en) 
@@ -115,40 +103,64 @@
 - [Jark's Blog - WuChong - 云邪](http://wuchong.me/)
 
 
-#### 2）教程推荐
+#### 2）专栏
+- [Flink架构、源码分析专栏](columns/flink/Flink架构、源码分析专栏.md)
+- [Flink实战系列](columns/flink/Flink实战系列.md)
+- [Flink开源项目汇总](columns/flink/Flink开源项目汇总.md)
+##### 教程
 - [ververica - flink-sql-cookbook](https://github.com/ververica/flink-sql-cookbook/)
 - [Flink零基础入门](columns/flink/Flink零基础入门.md)
 - [Flink进阶教程](columns/flink/Flink进阶教程.md)
 - [Apache Flink 漫谈系列](columns/flink/Apache%20Flink%20漫谈系列.md)
 
 
-#### 3）专栏
-- [Flink架构、源码分析专栏](columns/flink/Flink架构、源码分析专栏.md)
-- [Flink开源项目汇总](columns/flink/Flink开源项目汇总.md)
-- [Flink实战系列](columns/flink/Flink实战系列.md)
-
-
-
-
+#### 3）大厂实践
 
 
 
 
 
 ### Kudu
-- [Kudu官网](https://kudu.apache.org/)
+#### 1）官网、社区、博客
+- [Kudu 官网](https://kudu.apache.org/)
 
-- [Kudu论文解读: Fast Analytics on Fast Data (上)](https://zhuanlan.zhihu.com/p/137238298)    2020-04
-- [Kudu论文解读: Fast Analytics on Fast Data (下)](https://zhuanlan.zhihu.com/p/137243163)    2020-04
+
+#### 2）专栏
+- [Kudu 相关论文](columns/kudu/Kudu%20相关论文.md)
+
+
+#### 3）大厂实践
+
+
+#### 4）其他
 - [分布式存储系统Kudu与HBase的简要分析与对比](https://sq.163yun.com/blog/article/198870236065431552)    2018-11
 
-#### 相关论文
-- [LSM Tree](https://www.cs.umb.edu/~poneil/lsmtree.pdf)
+
+
+
+
+
+
+
+
+
+
 
 
 
 
 ### HBase
+#### 1）官网、社区、博客
+- [HBase 官网](https://hbase.apache.org/)
+
+
+#### 2）专栏
+
+
+#### 3）大厂实践
+
+
+#### 4）其他
 - [HBase Bulkload 实践探讨](https://tech.youzan.com/hbase-bulkloadshi-practice/)    2019-12
 
 
@@ -159,8 +171,18 @@
 
 
 ### ClickHouse
+#### 1）官网、社区、博客
+- [ClickHouse 官网](https://clickhouse.com/)
 
+
+#### 2）专栏
+
+
+#### 3）大厂实践
 - [ClickHouse 在有赞的实践之路](https://tech.youzan.com/clickhouse-zai-you-zan-de-shi-jian-zhi-lu/)    2021-01
+
+
+#### 4）其他
 
 
 
@@ -168,6 +190,11 @@
 
 
 ### Iceberg
+#### 1）官网、社区、博客
+- [Iceberg 官网](https://iceberg.apache.org/)
+
+
+#### 2）应用
 - [数据湖Iceberg | 实时数据仓库的发展、架构和趋势](https://mp.weixin.qq.com/s?__biz=MzIwNTUxNTI1Ng==&mid=2247485623&idx=1&sn=9f03a36dbfc06c712b6132faabaa1dfd&chksm=972ef820a05971360311fd69c686e4b420222cfa639a1bcb5648bece4c3d886ae8f981712d8c&scene=21#wechat_redirect)    2021-03
 - [数据湖Iceberg | Apache Iceberg快速入门](https://mp.weixin.qq.com/s?__biz=MzIwNTUxNTI1Ng==&mid=2247485637&idx=1&sn=0489f233e3bda2bcef221c9532bb001e&chksm=972ef852a0597144538b7807948443a27e58f99ba33d17a7bcb12ccb8b382fd1d712d6e80cbc&cur_album_id=1746684202856579076&scene=190#rd)    2021-03
 - [数据湖Iceberg | 如何正确使用Iceberg](https://mp.weixin.qq.com/s?__biz=MzIwNTUxNTI1Ng==&mid=2247485644&idx=1&sn=b2194d8f3c1e7cf7e8e8d9296b9025e2&chksm=972ef85ba059714dc69472e3860497389f2ca4503d2cddeedd348695b5c314da49aad0278978&cur_album_id=1746684202856579076&scene=190#rd)    2021-04
@@ -179,7 +206,11 @@
 
 
 ### Calcite
+#### 1）官网、社区、博客
 - [Calcite官网](http://calcite.incubator.apache.org/)
+
+
+#### 2）应用
 - [Apache Calcite 处理流程详解（一）](https://matt33.com/2019/03/07/apache-calcite-process-flow/)    2019-03
 - [Apache Calcite 优化器详解（二）](https://matt33.com/2019/03/17/apache-calcite-planner/)    2019-03
 - [SQL解析在美团的应用](https://tech.meituan.com/2018/05/20/sql-parser-used-in-mtdp.html)    2018-05
