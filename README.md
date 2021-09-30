@@ -280,31 +280,7 @@
 
 
 ### 相关开源项目
-- [atlas](https://github.com/apache/atlas)
-- [datahub](https://github.com/linkedin/datahub)
-
-
-- [DataX](https://github.com/alibaba/DataX)
-- [datax-web](https://github.com/WeiYe-Jing/datax-web)
-
-
-- [streamx](https://github.com/streamxhub/streamx)
-- [plink](https://github.com/hairless/plink)    Platform for Flink
-- [FlinkSQL](https://github.com/ambition119/FlinkSQL)
-- [flinkStreamSQL](https://github.com/DTStack/flinkStreamSQL)
-- [waterdrop](https://github.com/InterestingLab/waterdrop)
-
-
-- [DataSphereStudio](https://github.com/WeBankFinTech/DataSphereStudio)    微众银行
-- [wormhole](https://github.com/edp963/wormhole)    宜信
-- [big-whale](https://github.com/MeetYouDevs/big-whale)  
-- [lark](https://github.com/wxgzgl/lark)
-
-
-- [dolphinscheduler](https://github.com/apache/dolphinscheduler)
-
-
-- [davinci](https://github.com/edp963/davinci)
+- [数仓相关开源项目汇总](columns/opensource/数仓相关开源项目汇总.md)
 
 
 
