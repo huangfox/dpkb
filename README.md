@@ -9,8 +9,8 @@
 ## 一、开源组件
 
 ### Hadoop
-
-
+#### 1）官网、社区、博客
+- [Hadoop 官网](https://hadoop.apache.org/)
 
 
 
@@ -21,15 +21,15 @@
 
 ### Hive
 #### 1）官网、社区、博客
-- [Hive官网](https://hive.apache.org/)
+- [Hive 官网](https://hive.apache.org/)
 
 
 #### 2）专栏
-- [Hive教程](columns/hive/hive教程.md)
+- [Hive 教程](columns/hive/hive教程.md)
 
 
 #### 3）大厂实践
-- [HiveCube在有赞的实践](https://tech.youzan.com/cube/)    2019-07
+- [HiveCube 在有赞的实践](https://tech.youzan.com/cube/)    2019-07
 - [Hive Metastore Federation 在滴滴的实践](https://blog.didiyun.com/index.php/2019/03/25/hive-metastore-federation/)    2019-03
 
 
@@ -46,24 +46,24 @@
 - [PrestoDB 官网](https://prestodb.io/)
 - [Trino 官网](https://trino.io/)     原PrestoSql
 - [Google Presto Group](https://groups.google.com/g/presto-users)
-- [Presto知乎专栏](https://www.zhihu.com/column/presto-cn)
+- [Presto 知乎专栏](https://www.zhihu.com/column/presto-cn)
 - [若飞-技术博客](http://armsword.com/archives/)
 
 
 #### 2）专栏
-- [Presto架构、源码分析专栏](columns/presto/Presto架构、源码分析专栏.md)
-- [Presto最佳实践、调优、踩坑专栏](columns/presto/Presto最佳实践、调优、踩坑专栏.md)
-- [Presto资料汇总、会议资讯专栏](columns/presto/Presto资料汇总、会议资讯专栏.md)
+- [Presto 架构、源码分析专栏](columns/presto/Presto架构、源码分析专栏.md)
+- [Presto 最佳实践、调优、踩坑专栏](columns/presto/Presto最佳实践、调优、踩坑专栏.md)
+- [Presto 资料汇总、会议资讯专栏](columns/presto/Presto资料汇总、会议资讯专栏.md)
 
 
 #### 3）大厂实践
-- [Presto在车好多的实践](https://mp.weixin.qq.com/s/Bmqv54sVZgTqQ82I_RfmsA)    2020-12
-- [Presto在滴滴的探索与实践](https://zhuanlan.zhihu.com/p/266162270)    2020-10
+- [Presto 在车好多的实践](https://mp.weixin.qq.com/s/Bmqv54sVZgTqQ82I_RfmsA)    2020-12
+- [Presto 在滴滴的探索与实践](https://zhuanlan.zhihu.com/p/266162270)    2020-10
 - [Presto 在有赞的实践之路](https://tech.youzan.com/presto-zai-you-zan-de-shi-jian-zhi-lu/)    2020-04
 - [PrestoCon 2020：云原生数据湖分析DLA的Presto实践](https://zhuanlan.zhihu.com/p/260784762)    2020-03
 - [携程 Presto 技术演进之路](https://zhuanlan.zhihu.com/p/41538472)    2018-08
-- [Presto实现原理和美团的使用实践](https://tech.meituan.com/2014/06/16/presto.html)    2014-06
-- [Presto高性能引擎在美图的实践](https://zhuanlan.zhihu.com/p/408957032)    2021-09
+- [Presto 实现原理和美团的使用实践](https://tech.meituan.com/2014/06/16/presto.html)    2014-06
+- [Presto 高性能引擎在美图的实践](https://zhuanlan.zhihu.com/p/408957032)    2021-09
 
 
 
@@ -104,13 +104,13 @@
 
 
 #### 2）专栏
-- [Flink架构、源码分析专栏](columns/flink/Flink架构、源码分析专栏.md)
-- [Flink实战系列](columns/flink/Flink实战系列.md)
-- [Flink开源项目汇总](columns/flink/Flink开源项目汇总.md)
+- [Flink 架构、源码分析专栏](columns/flink/Flink架构、源码分析专栏.md)
+- [Flink 实战系列](columns/flink/Flink实战系列.md)
+- [Flink 开源项目汇总](columns/flink/Flink开源项目汇总.md)
 ##### 教程
 - [ververica - flink-sql-cookbook](https://github.com/ververica/flink-sql-cookbook/)
-- [Flink零基础入门](columns/flink/Flink零基础入门.md)
-- [Flink进阶教程](columns/flink/Flink进阶教程.md)
+- [Flink 零基础入门](columns/flink/Flink零基础入门.md)
+- [Flink 进阶教程](columns/flink/Flink进阶教程.md)
 - [Apache Flink 漫谈系列](columns/flink/Apache%20Flink%20漫谈系列.md)
 
 
@@ -133,7 +133,7 @@
 
 
 #### 4）其他
-- [分布式存储系统Kudu与HBase的简要分析与对比](https://sq.163yun.com/blog/article/198870236065431552)    2018-11
+- [分布式存储系统 Kudu 与 HBase 的简要分析与对比](https://sq.163yun.com/blog/article/198870236065431552)    2018-11
 
 
 
@@ -195,10 +195,10 @@
 
 
 #### 2）应用
-- [数据湖Iceberg | 实时数据仓库的发展、架构和趋势](https://mp.weixin.qq.com/s?__biz=MzIwNTUxNTI1Ng==&mid=2247485623&idx=1&sn=9f03a36dbfc06c712b6132faabaa1dfd&chksm=972ef820a05971360311fd69c686e4b420222cfa639a1bcb5648bece4c3d886ae8f981712d8c&scene=21#wechat_redirect)    2021-03
-- [数据湖Iceberg | Apache Iceberg快速入门](https://mp.weixin.qq.com/s?__biz=MzIwNTUxNTI1Ng==&mid=2247485637&idx=1&sn=0489f233e3bda2bcef221c9532bb001e&chksm=972ef852a0597144538b7807948443a27e58f99ba33d17a7bcb12ccb8b382fd1d712d6e80cbc&cur_album_id=1746684202856579076&scene=190#rd)    2021-03
-- [数据湖Iceberg | 如何正确使用Iceberg](https://mp.weixin.qq.com/s?__biz=MzIwNTUxNTI1Ng==&mid=2247485644&idx=1&sn=b2194d8f3c1e7cf7e8e8d9296b9025e2&chksm=972ef85ba059714dc69472e3860497389f2ca4503d2cddeedd348695b5c314da49aad0278978&cur_album_id=1746684202856579076&scene=190#rd)    2021-04
-- [数据湖Iceberg | 在网易云音乐的实践](https://mp.weixin.qq.com/s?__biz=MzIwNTUxNTI1Ng==&mid=2247485718&idx=1&sn=34347ac54e97877e4401ad37f1d15577&chksm=972ef981a059709724b7abab56786ef047a68f31fd829031d2214fa4994b9ec0f1b04e25318c&cur_album_id=1746684202856579076&scene=190#rd)    2021-04
+- [数据湖 Iceberg | 实时数据仓库的发展、架构和趋势](https://mp.weixin.qq.com/s?__biz=MzIwNTUxNTI1Ng==&mid=2247485623&idx=1&sn=9f03a36dbfc06c712b6132faabaa1dfd&chksm=972ef820a05971360311fd69c686e4b420222cfa639a1bcb5648bece4c3d886ae8f981712d8c&scene=21#wechat_redirect)    2021-03
+- [数据湖 Iceberg | Apache Iceberg 快速入门](https://mp.weixin.qq.com/s?__biz=MzIwNTUxNTI1Ng==&mid=2247485637&idx=1&sn=0489f233e3bda2bcef221c9532bb001e&chksm=972ef852a0597144538b7807948443a27e58f99ba33d17a7bcb12ccb8b382fd1d712d6e80cbc&cur_album_id=1746684202856579076&scene=190#rd)    2021-03
+- [数据湖 Iceberg | 如何正确使用 Iceberg](https://mp.weixin.qq.com/s?__biz=MzIwNTUxNTI1Ng==&mid=2247485644&idx=1&sn=b2194d8f3c1e7cf7e8e8d9296b9025e2&chksm=972ef85ba059714dc69472e3860497389f2ca4503d2cddeedd348695b5c314da49aad0278978&cur_album_id=1746684202856579076&scene=190#rd)    2021-04
+- [数据湖 Iceberg | 在网易云音乐的实践](https://mp.weixin.qq.com/s?__biz=MzIwNTUxNTI1Ng==&mid=2247485718&idx=1&sn=34347ac54e97877e4401ad37f1d15577&chksm=972ef981a059709724b7abab56786ef047a68f31fd829031d2214fa4994b9ec0f1b04e25318c&cur_album_id=1746684202856579076&scene=190#rd)    2021-04
 
 
 
@@ -207,13 +207,13 @@
 
 ### Calcite
 #### 1）官网、社区、博客
-- [Calcite官网](http://calcite.incubator.apache.org/)
+- [Calcite 官网](http://calcite.incubator.apache.org/)
 
 
 #### 2）应用
 - [Apache Calcite 处理流程详解（一）](https://matt33.com/2019/03/07/apache-calcite-process-flow/)    2019-03
 - [Apache Calcite 优化器详解（二）](https://matt33.com/2019/03/17/apache-calcite-planner/)    2019-03
-- [SQL解析在美团的应用](https://tech.meituan.com/2018/05/20/sql-parser-used-in-mtdp.html)    2018-05
+- [SQL 解析在美团的应用](https://tech.meituan.com/2018/05/20/sql-parser-used-in-mtdp.html)    2018-05
 
 
 
@@ -234,9 +234,9 @@
 
 ### 数仓相关
 - [有赞数据仓库实践之路](https://tech.youzan.com/dw-in-youzan/)    2020-03
-- [OneData建设探索之路：SaaS收银运营数仓建设](https://tech.meituan.com/2019/10/17/meituan-saas-data-warehouse.html)    2019-10
+- [OneData 建设探索之路：SaaS 收银运营数仓建设](https://tech.meituan.com/2019/10/17/meituan-saas-data-warehouse.html)    2019-10
 - [有赞指标库实践](https://tech.youzan.com/you-zan-zhi-biao-ku-shi-jian/)    2020-03
-- [有赞BI平台实现原理](https://tech.youzan.com/principle-on-bi-platform/)    2021-01
+- [有赞 BI 平台实现原理](https://tech.youzan.com/principle-on-bi-platform/)    2021-01
 
 
 
