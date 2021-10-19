@@ -76,7 +76,7 @@
 
 
 #### 2）专栏
-- [Apache Spark的设计与实现](columns/spark/Apache%20Spark的设计与实现.md)
+- [Apache Spark 的设计与实现](columns/spark/Apache%20Spark的设计与实现.md)
 
 
 #### 3）大厂实践
@@ -108,7 +108,7 @@
 - [Flink 实战系列](columns/flink/Flink实战系列.md)
 - [Flink 开源项目汇总](columns/flink/Flink开源项目汇总.md)
 ##### 教程
-- [ververica - flink-sql-cookbook](https://github.com/ververica/flink-sql-cookbook/)
+- [Flink SQL Cookbook - Ververica](https://github.com/ververica/flink-sql-cookbook/)
 - [Flink 零基础入门](columns/flink/Flink零基础入门.md)
 - [Flink 进阶教程](columns/flink/Flink进阶教程.md)
 - [Apache Flink 漫谈系列](columns/flink/Apache%20Flink%20漫谈系列.md)
@@ -253,8 +253,10 @@
 - [饿了么元数据管理实践之路](https://dbaplus.cn/news-73-2143-1.html)    2018-07
 - [元数据管理系统解析](https://mp.weixin.qq.com/s?src=11&timestamp=1618555532&ver=3011&signature=j7T-s05mGRylTpswE-bYnmXDzbFtKd4lIoCHtDtcCJumP0JSKmxVg7iuZyu*aoZYu6ahwagxByeYoNnzIOPDsO5lVAyjrXKY3vRGLR99J9YlbW1Vlv6vtTfSOzCfeMnU&new=1)    2018-03
 - [数据治理方案技术调研 Atlas VS Datahub VS Amundsen](https://cloud.tencent.com/developer/article/1746714)    2020-11
+- [数据资产治理-元数据采集那点事](https://tech.youzan.com/zi-chan-zhi-li-yuan-shu-ju-cai-ji-na-dian-shi/)    2020-12
 
-
+#### Datahub
+- [Datahub](https://datahubproject.io/)    A Metadata Platform for the Modern Data Stack
 
 
 
@@ -269,18 +271,13 @@
 - [滴滴云博客](https://blog.didiyun.com/)
 
 
-
-
-
-
 ### 大数据相关网站
 - [dbaplus](https://dbaplus.cn/)
-
-
 
 
 ### 相关开源项目
 - [数仓相关开源项目汇总](columns/opensource/数仓相关开源项目汇总.md)
 
 
-
+### 相关论文
+- [raft 中文翻译](https://github.com/maemual/raft-zh_cn/blob/master/raft-zh_cn.md)
