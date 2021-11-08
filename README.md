@@ -126,6 +126,7 @@
 
 
 #### 2）专栏
+- [Kudu 原理](columns/kudu/Kudu%20原理.md)
 - [Kudu 相关论文](columns/kudu/Kudu%20相关论文.md)
 
 
@@ -237,7 +238,7 @@
 - [OneData 建设探索之路：SaaS 收银运营数仓建设](https://tech.meituan.com/2019/10/17/meituan-saas-data-warehouse.html)    2019-10
 - [有赞指标库实践](https://tech.youzan.com/you-zan-zhi-biao-ku-shi-jian/)    2020-03
 - [有赞 BI 平台实现原理](https://tech.youzan.com/principle-on-bi-platform/)    2021-01
-
+- [面向AI技术的工程架构实践 | 贝壳一站式大数据开发平台实践](https://www.infoq.cn/article/mmnwzdlcyjg83qm0tgqm)    2020-11
 
 
 
@@ -254,6 +255,8 @@
 - [元数据管理系统解析](https://mp.weixin.qq.com/s?src=11&timestamp=1618555532&ver=3011&signature=j7T-s05mGRylTpswE-bYnmXDzbFtKd4lIoCHtDtcCJumP0JSKmxVg7iuZyu*aoZYu6ahwagxByeYoNnzIOPDsO5lVAyjrXKY3vRGLR99J9YlbW1Vlv6vtTfSOzCfeMnU&new=1)    2018-03
 - [数据治理方案技术调研 Atlas VS Datahub VS Amundsen](https://cloud.tencent.com/developer/article/1746714)    2020-11
 - [数据资产治理-元数据采集那点事](https://tech.youzan.com/zi-chan-zhi-li-yuan-shu-ju-cai-ji-na-dian-shi/)    2020-12
+
+
 
 #### Datahub
 - [Datahub](https://datahubproject.io/)    A Metadata Platform for the Modern Data Stack
