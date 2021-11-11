@@ -190,6 +190,37 @@
 
 
 
+### Doris
+#### 1）官网、社区、博客
+- [Doris](https://doris.apache.org/master/zh-CN/)
+- [github incubator-doris](https://github.com/apache/incubator-doris)
+- [论坛](https://github.com/apache/incubator-doris/discussions)
+
+
+#### 2）专栏
+- [Doris全面解析](columns/Doris/Doris全面解析.md)
+- [Doris最佳实践](columns/Doris/Doris最佳实践.md)
+
+
+
+#### 3）案例实践
+- [Apache Doris在美团外卖数仓中的应用实践](https://tech.meituan.com/2020/04/09/doris-in-meituan-waimai.html)    2020-04
+- [Apache Doris 在韵达物流领域的应用实践](https://mp.weixin.qq.com/s/Z_PhWk92ctZ7slz4SrVZ9Q)    2021-07
+- [Apache Doris 在蜀海供应链的实践](https://mp.weixin.qq.com/s/SHuE-KCsIyh6jfo0DqLD6w)    2021-07
+- [京东物流基于 Doris 的亿级数据自助探索应用](https://mp.weixin.qq.com/s/qVFa40yMg0_N9Lsb10ACQA)    2021-07
+- [Doris on ES在快手商业化的最佳实践](https://mp.weixin.qq.com/s/5Pc5ewVFWPgauG4hNLH9xw)    2021-08
+- [基于Doris的有道精品课数据中台建设实践](https://mp.weixin.qq.com/s/Gz-au9CHJ4lHrs5MkzeAJg)    2020-12
+- [美团外卖实时数仓建设实践](https://mp.weixin.qq.com/s/-JPWqa_-at7F5hZ0zekVSQ)    2020-10
+- [Doris在作业帮实时数仓中的应用&实践](https://mp.weixin.qq.com/s/hjbMM8CbElO04VLN5cfJtQ)    2020-09
+- [基于Apache Doris的小米增长分析平台实践](https://mp.weixin.qq.com/s/WeNAItPJ4b7fsqW4kf0dSA)    2020-08
+- [Apache Doris在京东双十一大促中的实践](https://mp.weixin.qq.com/s/8XnwJXm4kzq56SvElwL6kA)    2020-03
+- [Apache Doris 在百度商业大规模微服务全链路监控的实践](https://mp.weixin.qq.com/s/k7CcCdHPTK1ZTDs_qKgh5w)    2020-02
+
+
+
+
+
+
 ### Iceberg
 #### 1）官网、社区、博客
 - [Iceberg 官网](https://iceberg.apache.org/)
