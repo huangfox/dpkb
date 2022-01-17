@@ -1,6 +1,7 @@
 # Doris全面解析
 
 
+
 ## 存储相关
 - [存储层设计介绍1——存储结构设计解析](https://mp.weixin.qq.com/s/aJ3FwDI6KprYYUwXzhl_-A)    2020-07
 - [存储层设计介绍2——写入流程、删除流程分析](https://mp.weixin.qq.com/s/xl4ePcsSVPPNQDGBw-KoKA)    2020-07
@@ -11,6 +12,7 @@
 
 
 ## 计算相关
+- [Apache Doris 查询原理](https://blog.bcmeng.com/post/apache-doris-query.html)    2020-03
 - [Doris SQL 原理解析](https://mp.weixin.qq.com/s/v1jI1MxEHPT5czCWd0kRxw)    2021-01
 - [Doris Stream Load原理解析](https://mp.weixin.qq.com/s/NUSHwAUsFskSXG5R0mw8kg)    2021-06
 - [Apache Doris 索引机制解析](https://mp.weixin.qq.com/s/KdCdXb9Z3MdUZ5S0RV726Q)    2021-09

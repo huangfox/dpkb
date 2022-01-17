@@ -26,7 +26,6 @@
 
 
 
-
 ## 二、书籍相关
 - [《Presto: The Definitive Guide》](https://trino.io/blog/2020/04/11/the-definitive-guide.html)
 - [《Presto技术内幕》](https://book.douban.com/subject/26855863/)    京东Presto团队

@@ -1,6 +1,6 @@
 # DPKB
 大数据相关文章汇总（知识库）
-持续更新中（2021-10）
+持续更新中（2022-01）
 
 
 
@@ -236,6 +236,19 @@
 
 
 
+### Hudi
+#### 1）官网、社区、博客
+- [Hudi 官网](https://hudi.apache.org/)
+
+#### 2）应用
+- [Flink CDC + Hudi + Hive + Presto 构建实时数据湖最佳实践](https://mp.weixin.qq.com/s/079VeDeIM_MQPyiiDX2l_w)
+ 
+
+
+
+
+
+
 
 ### Calcite
 #### 1）官网、社区、博客
@@ -246,6 +259,14 @@
 - [Apache Calcite 处理流程详解（一）](https://matt33.com/2019/03/07/apache-calcite-process-flow/)    2019-03
 - [Apache Calcite 优化器详解（二）](https://matt33.com/2019/03/17/apache-calcite-planner/)    2019-03
 - [SQL 解析在美团的应用](https://tech.meituan.com/2018/05/20/sql-parser-used-in-mtdp.html)    2018-05
+
+
+
+
+
+
+### DolphinScheduler
+
 
 
 
