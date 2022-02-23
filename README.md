@@ -1,6 +1,6 @@
 # DPKB
 大数据相关文章汇总（知识库）
-持续更新中（2022-01）
+持续更新中（2022-02）
 
 
 
@@ -153,6 +153,7 @@
 ### HBase
 #### 1）官网、社区、博客
 - [HBase 官网](https://hbase.apache.org/)
+- [hbasefly](http://hbasefly.com/) 
 
 
 #### 2）专栏
@@ -297,17 +298,18 @@
 
 
 
-### 数据治理、数据资产
+### 数据治理、数据资产、元数据管理
 - [美团配送数据治理实践](https://tech.meituan.com/2020/03/12/delivery-data-governance.html)    2020-03
 - [全链路数据治理在网易严选的实践](https://www.infoq.cn/article/FOV6aEWRGNOfhD91YVcr)    2020-10
 - [数据资产、数据治理 - 有赞](https://tech.youzan.com/shu-ju-zi-chan-zan-zhi-zhi-li/)    2019-11
 - [浅谈有赞大数据安全体系](https://tech.youzan.com/you-zan-da-shu-ju-an-quan-ti-xi-jian-she-shi-jian/)    2021-01
+
+
+#### 元数据管理
 - [有赞数据仓库元数据系统实践](https://tech.youzan.com/youzan-metadata/)    2018-08
 - [饿了么元数据管理实践之路](https://dbaplus.cn/news-73-2143-1.html)    2018-07
-- [元数据管理系统解析](https://mp.weixin.qq.com/s?src=11&timestamp=1618555532&ver=3011&signature=j7T-s05mGRylTpswE-bYnmXDzbFtKd4lIoCHtDtcCJumP0JSKmxVg7iuZyu*aoZYu6ahwagxByeYoNnzIOPDsO5lVAyjrXKY3vRGLR99J9YlbW1Vlv6vtTfSOzCfeMnU&new=1)    2018-03
 - [数据治理方案技术调研 Atlas VS Datahub VS Amundsen](https://cloud.tencent.com/developer/article/1746714)    2020-11
-- [数据资产治理-元数据采集那点事](https://tech.youzan.com/zi-chan-zhi-li-yuan-shu-ju-cai-ji-na-dian-shi/)    2020-12
-
+- [数据资产治理-元数据采集那点事 - 有赞](https://tech.youzan.com/zi-chan-zhi-li-yuan-shu-ju-cai-ji-na-dian-shi/)    2020-12
 
 
 #### Datahub
@@ -336,3 +338,5 @@
 
 ### 相关论文
 - [raft 中文翻译](https://github.com/maemual/raft-zh_cn/blob/master/raft-zh_cn.md)
+
+
