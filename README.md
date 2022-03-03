@@ -145,11 +145,6 @@
 
 
 
-
-
-
-
-
 ### HBase
 #### 1）官网、社区、博客
 - [HBase 官网](https://hbase.apache.org/)
@@ -216,6 +211,30 @@
 - [基于Apache Doris的小米增长分析平台实践](https://mp.weixin.qq.com/s/WeNAItPJ4b7fsqW4kf0dSA)    2020-08
 - [Apache Doris在京东双十一大促中的实践](https://mp.weixin.qq.com/s/8XnwJXm4kzq56SvElwL6kA)    2020-03
 - [Apache Doris 在百度商业大规模微服务全链路监控的实践](https://mp.weixin.qq.com/s/k7CcCdHPTK1ZTDs_qKgh5w)    2020-02
+
+
+
+
+
+
+### StarRocks
+#### 1）官网、社区、博客
+- [StarRocks](https://www.starrocks.com/zh-CN/index)
+- [StarRocks文档](https://docs.starrocks.com/zh-cn/main/introduction/StarRocks_intro)
+
+
+#### 2）案例实践
+- [猿辅导 x StarRocks：构建统一OLAP平台，全面升级数据分析能力](https://zhuanlan.zhihu.com/p/371959524)    2021-11
+- [58集团 x StarRocks：全面升级数据分析能力，满足多场景业务分析需求](https://zhuanlan.zhihu.com/p/375187547)    2021-11
+- [小红书 x StarRocks：实现数据服务平台统一化，简化数据链路，提升高并发极速查询能力](https://zhuanlan.zhihu.com/p/382616955)    2021-11
+- [滴滴 x StarRocks：极速多维分析创造更大的业务价值](https://zhuanlan.zhihu.com/p/414057102)    2021-11
+- [携程 x StarRocks：高效支持高并发查询，大幅降低人力和硬件成本](https://zhuanlan.zhihu.com/p/419063478)    2021-11
+- [小米 x StarRocks：极致性能打造小米式性价比数据平台](https://zhuanlan.zhihu.com/p/435120195)    2021-11
+- [顺丰科技 x StarRocks ：双十一实时运单分析实践](https://zhuanlan.zhihu.com/p/437272792)    2021-11
+- [汽车之家 x StarRocks：极速实时数据分析实践](https://zhuanlan.zhihu.com/p/438054950)    2021-11
+- [贝壳找房是如何基于StarRocks实现OLAP平台统一的？](https://zhuanlan.zhihu.com/p/396260314)    2021-11
+
+
 
 
 
