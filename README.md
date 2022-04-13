@@ -1,6 +1,6 @@
 # DPKB
 大数据相关文章汇总（知识库）
-持续更新中（2022-02）
+持续更新中（2022-04）
 
 
 
@@ -194,8 +194,8 @@
 
 
 #### 2）专栏
-- [Doris全面解析](columns/Doris/Doris全面解析.md)
-- [Doris最佳实践](columns/Doris/Doris最佳实践.md)
+- [Doris全面解析](columns/doris/Doris全面解析.md)
+- [Doris最佳实践](columns/doris/Doris最佳实践.md)
 
 
 

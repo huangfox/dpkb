@@ -1,6 +1,7 @@
 # Doris全面解析
 
-
+## 原理
+- [Apache Doris : 一个开源 MPP 数据库的架构与实践](https://www.jianshu.com/p/d3742af8ecce)
 
 ## 存储相关
 - [存储层设计介绍1——存储结构设计解析](https://mp.weixin.qq.com/s/aJ3FwDI6KprYYUwXzhl_-A)    2020-07
