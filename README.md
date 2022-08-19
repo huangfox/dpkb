@@ -1,6 +1,6 @@
 # DPKB
 大数据相关文章汇总（知识库）
-持续更新中（2022-04）
+持续更新中（2022-08）
 
 
 
@@ -112,10 +112,10 @@
 - [Flink 零基础入门](columns/flink/Flink零基础入门.md)
 - [Flink 进阶教程](columns/flink/Flink进阶教程.md)
 - [Apache Flink 漫谈系列](columns/flink/Apache%20Flink%20漫谈系列.md)
-
+- [Flink 相关论文](columns/flink/Flink%20相关论文.md)
 
 #### 3）大厂实践
-
+- [flink-forward-asia-hackathon-2021](https://github.com/flink-china/flink-forward-asia-hackathon-2021/issues)
 
 
 
@@ -329,7 +329,7 @@
 - [饿了么元数据管理实践之路](https://dbaplus.cn/news-73-2143-1.html)    2018-07
 - [数据治理方案技术调研 Atlas VS Datahub VS Amundsen](https://cloud.tencent.com/developer/article/1746714)    2020-11
 - [数据资产治理-元数据采集那点事 - 有赞](https://tech.youzan.com/zi-chan-zhi-li-yuan-shu-ju-cai-ji-na-dian-shi/)    2020-12
-
+- [来看看字节跳动内部的数据血缘用例与设计](https://segmentfault.com/a/1190000041452770)    2022-02
 
 #### Datahub
 - [Datahub](https://datahubproject.io/)    A Metadata Platform for the Modern Data Stack
