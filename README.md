@@ -1,6 +1,6 @@
 # DPKB
 大数据相关文章汇总（知识库）
-持续更新中（2022-08）
+持续更新中（2022-09）
 
 
 
@@ -221,6 +221,7 @@
 #### 1）官网、社区、博客
 - [StarRocks](https://www.starrocks.com/zh-CN/index)
 - [StarRocks文档](https://docs.starrocks.com/zh-cn/main/introduction/StarRocks_intro)
+- [编程小梦 康凯森](https://blog.bcmeng.com/)
 
 
 #### 2）案例实践
@@ -301,19 +302,12 @@
 
 
 
-
-
-
-
 ### 数仓相关
 - [有赞数据仓库实践之路](https://tech.youzan.com/dw-in-youzan/)    2020-03
 - [OneData 建设探索之路：SaaS 收银运营数仓建设](https://tech.meituan.com/2019/10/17/meituan-saas-data-warehouse.html)    2019-10
 - [有赞指标库实践](https://tech.youzan.com/you-zan-zhi-biao-ku-shi-jian/)    2020-03
 - [有赞 BI 平台实现原理](https://tech.youzan.com/principle-on-bi-platform/)    2021-01
 - [面向AI技术的工程架构实践 | 贝壳一站式大数据开发平台实践](https://www.infoq.cn/article/mmnwzdlcyjg83qm0tgqm)    2020-11
-
-
-
 
 
 
@@ -330,11 +324,25 @@
 - [数据治理方案技术调研 Atlas VS Datahub VS Amundsen](https://cloud.tencent.com/developer/article/1746714)    2020-11
 - [数据资产治理-元数据采集那点事 - 有赞](https://tech.youzan.com/zi-chan-zhi-li-yuan-shu-ju-cai-ji-na-dian-shi/)    2020-12
 - [来看看字节跳动内部的数据血缘用例与设计](https://segmentfault.com/a/1190000041452770)    2022-02
-
-#### Datahub
 - [Datahub](https://datahubproject.io/)    A Metadata Platform for the Modern Data Stack
 
 
+
+### 数据湖
+- [一文看懂：什么是数据库、数据湖、数据仓库、湖仓一体、智能湖仓？](https://www.smartcity.team/consultingskills/experience/shujukuyushujuhu/#comments)    2021-08
+
+
+
+### 推荐系统
+
+#### 基础
+- [从零开始了解推荐系统全貌](https://zhuanlan.zhihu.com/p/259985388)    2020-09
+- [基于内容的推荐算法](https://zhuanlan.zhihu.com/p/80068528)    2021-01
+
+
+#### 技术博客
+- [王喆的主页-推荐系统、计算广告与量化投资](http://wzhe.me/)    
+- [推荐系统干货总结](https://zhuanlan.zhihu.com/p/34004488)    2022-08
 
 
 
@@ -347,12 +355,15 @@
 - [滴滴云博客](https://blog.didiyun.com/)
 
 
+
 ### 大数据相关网站
 - [dbaplus](https://dbaplus.cn/)
 
 
+
 ### 相关开源项目
 - [数仓相关开源项目汇总](columns/opensource/数仓相关开源项目汇总.md)
+
 
 
 ### 相关论文
