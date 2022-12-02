@@ -1,6 +1,6 @@
 # DPKB
 大数据相关文章汇总（知识库）
-持续更新中（2022-09）
+持续更新中（2022-12）
 
 
 
@@ -224,16 +224,8 @@
 - [编程小梦 康凯森](https://blog.bcmeng.com/)
 
 
-#### 2）案例实践
-- [猿辅导 x StarRocks：构建统一OLAP平台，全面升级数据分析能力](https://zhuanlan.zhihu.com/p/371959524)    2021-11
-- [58集团 x StarRocks：全面升级数据分析能力，满足多场景业务分析需求](https://zhuanlan.zhihu.com/p/375187547)    2021-11
-- [小红书 x StarRocks：实现数据服务平台统一化，简化数据链路，提升高并发极速查询能力](https://zhuanlan.zhihu.com/p/382616955)    2021-11
-- [滴滴 x StarRocks：极速多维分析创造更大的业务价值](https://zhuanlan.zhihu.com/p/414057102)    2021-11
-- [携程 x StarRocks：高效支持高并发查询，大幅降低人力和硬件成本](https://zhuanlan.zhihu.com/p/419063478)    2021-11
-- [小米 x StarRocks：极致性能打造小米式性价比数据平台](https://zhuanlan.zhihu.com/p/435120195)    2021-11
-- [顺丰科技 x StarRocks ：双十一实时运单分析实践](https://zhuanlan.zhihu.com/p/437272792)    2021-11
-- [汽车之家 x StarRocks：极速实时数据分析实践](https://zhuanlan.zhihu.com/p/438054950)    2021-11
-- [贝壳找房是如何基于StarRocks实现OLAP平台统一的？](https://zhuanlan.zhihu.com/p/396260314)    2021-11
+#### 2) 专栏
+- [StarRocks技术内幕](columns/starrocks/StarRocks技术内幕.md)
 
 
 
