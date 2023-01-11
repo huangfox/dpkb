@@ -14,6 +14,9 @@
 
 
 ### 1.2 大厂实践
+- [Presto在B站的实践](https://www.bilibili.com/read/cv16043517)   2022-04
+- [Presto 在字节跳动的内部实践与优化（优化篇）](https://xie.infoq.cn/article/061bb0935a8575e01ea243852)    2021-12
+- [Presto at Tencent at Scale - pdf](https://static.sched.com/hosted_files/prestocon2021/ed/Presto%20at%20Tencent%20at%20Scale%20%281%29.pdf)   2021-12
 - [Presto在车好多的实践](https://mp.weixin.qq.com/s/Bmqv54sVZgTqQ82I_RfmsA)    2020-12
 - [Presto在滴滴的探索与实践](https://zhuanlan.zhihu.com/p/266162270)    2020-10
 - [Presto 在有赞的实践之路](https://tech.youzan.com/presto-zai-you-zan-de-shi-jian-zhi-lu/)    2020-04
@@ -21,7 +24,6 @@
 - [携程 Presto 技术演进之路](https://zhuanlan.zhihu.com/p/41538472)    2018-08
 - [Presto实现原理和美团的使用实践](https://tech.meituan.com/2014/06/16/presto.html)    2014-06
 - [阿里数据湖 Presto分析算力隔离技术剖析 ](https://mp.weixin.qq.com/s/lV_nzLI6_Ott7Abyaik_bw)
-
 
 
 
