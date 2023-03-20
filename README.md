@@ -1,6 +1,6 @@
 # DPKB
 大数据相关文章汇总（知识库）
-持续更新中（2023-01）
+持续更新中（2023-03）
 
 
 
@@ -12,7 +12,11 @@
 #### 1）官网、社区、博客
 - [Hadoop 官网](https://hadoop.apache.org/)
 
+#### 2）HDFS
 
+
+#### 3）YARN
+- [Hadoop YARN原理 - 编写YARN Application](https://liebing.org.cn/2021/10/19/hadoop_yarn_write_application/)    2022
 
 
 
