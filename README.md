@@ -192,9 +192,9 @@
 
 ### Doris
 #### 1）官网、社区、博客
-- [Doris](https://doris.apache.org/master/zh-CN/)
-- [github incubator-doris](https://github.com/apache/incubator-doris)
-- [论坛](https://github.com/apache/incubator-doris/discussions)
+- [Doris 官网](https://doris.apache.org/)
+- [Doris github](https://github.com/apache/doris)
+- [Doris 论坛](https://github.com/apache/incubator-doris/discussions)
 
 
 #### 2）专栏
