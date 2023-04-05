@@ -1,11 +1,11 @@
 # DPKB
 
 大数据相关知识库，主要包括：
-一、数据存储层、数据库（HDFS、Hive、HBase、Kudu、Doris、StarRocks、ClickHouse、TiDB等）
-二、数据处理层、OLAP引擎（Spark、Flink、Presto、Trino等）
-三、数据湖（IceBerg、Hudi、Delta等）
-四、大数据开发、应用（主要包括ETL、调度、数仓、数据应用等，例如Seatunnel、Dolphinscheduler等）
-五、数据治理（元数据管理、数据模型、数据标准、数据质量、数据安全等）
+* 数据存储层、数据库（HDFS、Hive、HBase、Kudu、Doris、StarRocks、ClickHouse、TiDB等）
+* 数据处理层、OLAP引擎（Spark、Flink、Presto、Trino等）
+* 数据湖（IceBerg、Hudi、Delta等）
+* 大数据开发、应用（主要包括ETL、调度、数仓、数据应用等，例如Seatunnel、Dolphinscheduler等）
+* 数据治理（元数据管理、数据模型、数据标准、数据质量、数据安全等）
 
 持续更新中（2023-04）
 
