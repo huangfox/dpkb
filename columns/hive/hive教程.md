@@ -1,7 +1,7 @@
 # Hive教程
-- 
 
-## 01
+
+## Hive学习之路    2018
 - [Hive学习之路 （一）Hive初识](https://www.cnblogs.com/qingyunzong/p/8707885.html)
 - [Hive学习之路 （二）Hive安装](https://www.cnblogs.com/qingyunzong/p/8708057.html)
 - [Hive学习之路 （三）Hive元数据信息对应MySQL数据库表](https://www.cnblogs.com/qingyunzong/p/8710356.html)

@@ -60,15 +60,18 @@
 
 
 #### 2）专栏
-- [Kudu 原理](columns/kudu/Kudu%20原理.md)
-- [Kudu 相关论文](columns/kudu/Kudu%20相关论文.md)
+- [Kudu 原理 论文](columns/kudu/Kudu原理论文.md)
+- [网易云Kudu技术专栏](columns/kudu/网易云Kudu技术文章.md)
 
 
 #### 3）大厂实践
+- [Apache Kudu 在网易的实践](https://www.infoq.cn/article/kgwyqb5wer5wl8cquweq)   2021-08
+- [Apache Kudu 在网易实时数仓的实践](https://www.infoq.cn/article/QETxjyIu5tAJTZ9ksMdu)    2020-02
+- [Kudu架构介绍及其在小米的应用实践](https://www.modb.pro/db/119708)    2017-06
 
 
-#### 4）其他
-- [分布式存储系统 Kudu 与 HBase 的简要分析与对比](https://sq.163yun.com/blog/article/198870236065431552)    2018-11
+#### 4) 其他
+- [我是如何成为Apache Kudu committer & PMC 的？](https://cloud.tencent.com/developer/article/1450749)    2019-06
 
 
 
