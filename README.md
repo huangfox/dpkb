@@ -1,24 +1,21 @@
 # DPKB
-大数据相关文章汇总（知识库）
-持续更新中（2023-03）
+
+大数据相关知识库，主要包括：
+一、数据存储层、数据库（HDFS、Hive、HBase、Kudu、Doris、StarRocks、ClickHouse、TiDB等）
+二、数据处理层、OLAP引擎（Spark、Flink、Presto、Trino等）
+三、数据湖（IceBerg、Hudi、Delta等）
+四、大数据开发、应用（主要包括ETL、调度、数仓、数据应用等，例如Seatunnel、Dolphinscheduler等）
+五、数据治理（元数据管理、数据模型、数据标准、数据质量、数据安全等）
+
+持续更新中（2023-04）
 
 
 
 
 
-## 一、开源组件
+## 一、数据存储层、数据库（HDFS、Hive、HBase、Kudu、Doris、StarRocks、ClickHouse、TiDB等）
 
-### Hadoop
-#### 1）官网、社区、博客
-- [Hadoop 官网](https://hadoop.apache.org/)
-
-#### 2）HDFS
-
-
-#### 3）YARN
-- [Hadoop YARN原理 - 编写YARN Application](https://liebing.org.cn/2021/10/19/hadoop_yarn_write_application/)    2022
-
-
+### HDFS
 
 
 
@@ -39,40 +36,102 @@
 
 
 
-
-
-
-
-
-
-### Presto、Trino
+### HBase
 #### 1）官网、社区、博客
-- [PrestoDB 官网](https://prestodb.io/)
-- [Trino 官网](https://trino.io/)     原PrestoSql
-- [Google Presto Group](https://groups.google.com/g/presto-users)
-- [Presto 知乎专栏](https://www.zhihu.com/column/presto-cn)
-- [若飞-技术博客](http://armsword.com/archives/)
+- [HBase 官网](https://hbase.apache.org/)
+- [hbasefly](http://hbasefly.com/) 
 
 
 #### 2）专栏
-- [Presto 架构、源码分析专栏](columns/presto/Presto架构、源码分析专栏.md)
-- [Presto 最佳实践、调优、踩坑专栏](columns/presto/Presto最佳实践、调优、踩坑专栏.md)
-- [Presto 资料汇总、会议资讯专栏](columns/presto/Presto资料汇总、会议资讯专栏.md)
 
 
 #### 3）大厂实践
-- [Presto 在车好多的实践](https://mp.weixin.qq.com/s/Bmqv54sVZgTqQ82I_RfmsA)    2020-12
-- [Presto 在滴滴的探索与实践](https://zhuanlan.zhihu.com/p/266162270)    2020-10
-- [Presto 在有赞的实践之路](https://tech.youzan.com/presto-zai-you-zan-de-shi-jian-zhi-lu/)    2020-04
-- [PrestoCon 2020：云原生数据湖分析DLA的Presto实践](https://zhuanlan.zhihu.com/p/260784762)    2020-03
-- [携程 Presto 技术演进之路](https://zhuanlan.zhihu.com/p/41538472)    2018-08
-- [Presto 实现原理和美团的使用实践](https://tech.meituan.com/2014/06/16/presto.html)    2014-06
-- [Presto 高性能引擎在美图的实践](https://zhuanlan.zhihu.com/p/408957032)    2021-09
+
+
+#### 4）其他
+- [HBase Bulkload 实践探讨](https://tech.youzan.com/hbase-bulkloadshi-practice/)    2019-12
 
 
 
 
+### Kudu
+#### 1）官网、社区、博客
+- [Kudu 官网](https://kudu.apache.org/)
 
+
+#### 2）专栏
+- [Kudu 原理](columns/kudu/Kudu%20原理.md)
+- [Kudu 相关论文](columns/kudu/Kudu%20相关论文.md)
+
+
+#### 3）大厂实践
+
+
+#### 4）其他
+- [分布式存储系统 Kudu 与 HBase 的简要分析与对比](https://sq.163yun.com/blog/article/198870236065431552)    2018-11
+
+
+
+
+### Doris
+#### 1）官网、社区、博客
+- [Doris 官网](https://doris.apache.org/)
+- [Doris github](https://github.com/apache/doris)
+- [Doris 论坛](https://github.com/apache/incubator-doris/discussions)
+
+
+#### 2）专栏
+- [Doris全面解析](columns/doris/Doris全面解析.md)
+- [Doris最佳实践](columns/doris/Doris最佳实践.md)
+
+
+#### 3）案例实践
+- [Apache Doris在美团外卖数仓中的应用实践](https://tech.meituan.com/2020/04/09/doris-in-meituan-waimai.html)    2020-04
+- [Apache Doris 在韵达物流领域的应用实践](https://mp.weixin.qq.com/s/Z_PhWk92ctZ7slz4SrVZ9Q)    2021-07
+- [Apache Doris 在蜀海供应链的实践](https://mp.weixin.qq.com/s/SHuE-KCsIyh6jfo0DqLD6w)    2021-07
+- [京东物流基于 Doris 的亿级数据自助探索应用](https://mp.weixin.qq.com/s/qVFa40yMg0_N9Lsb10ACQA)    2021-07
+- [Doris on ES在快手商业化的最佳实践](https://mp.weixin.qq.com/s/5Pc5ewVFWPgauG4hNLH9xw)    2021-08
+- [基于Doris的有道精品课数据中台建设实践](https://mp.weixin.qq.com/s/Gz-au9CHJ4lHrs5MkzeAJg)    2020-12
+- [美团外卖实时数仓建设实践](https://mp.weixin.qq.com/s/-JPWqa_-at7F5hZ0zekVSQ)    2020-10
+- [Doris在作业帮实时数仓中的应用&实践](https://mp.weixin.qq.com/s/hjbMM8CbElO04VLN5cfJtQ)    2020-09
+- [基于Apache Doris的小米增长分析平台实践](https://mp.weixin.qq.com/s/WeNAItPJ4b7fsqW4kf0dSA)    2020-08
+- [Apache Doris在京东双十一大促中的实践](https://mp.weixin.qq.com/s/8XnwJXm4kzq56SvElwL6kA)    2020-03
+- [Apache Doris 在百度商业大规模微服务全链路监控的实践](https://mp.weixin.qq.com/s/k7CcCdHPTK1ZTDs_qKgh5w)    2020-02
+
+
+
+
+### StarRocks
+#### 1）官网、社区、博客
+- [StarRocks](https://www.starrocks.com/zh-CN/index)
+- [StarRocks文档](https://docs.starrocks.com/zh-cn/main/introduction/StarRocks_intro)
+- [编程小梦 康凯森](https://blog.bcmeng.com/)
+
+
+#### 2) 专栏
+- [StarRocks技术内幕](columns/starrocks/StarRocks技术内幕.md)
+
+
+
+
+### ClickHouse
+#### 1）官网、社区、博客
+- [ClickHouse 官网](https://clickhouse.com/)
+
+
+#### 2）专栏
+
+
+#### 3）大厂实践
+- [ClickHouse 在有赞的实践之路](https://tech.youzan.com/clickhouse-zai-you-zan-de-shi-jian-zhi-lu/)    2021-01
+
+
+#### 4）其他
+
+
+
+
+## 二、数据处理层、OLAP引擎（Spark、Flink、Presto、Trino等）
 
 ### Spark
 #### 1）官网、社区、博客
@@ -86,12 +145,6 @@
 #### 3）大厂实践
 - [SparkSQL 在有赞的实践](https://tech.youzan.com/sparksql-in-youzan/)    2019-01
 - [SparkSQL 在有赞大数据的实践（二）](https://tech.youzan.com/sparksql-in-youzan-2/)    2020-01
-
-
-
-
-
-
 
 
 
@@ -124,118 +177,36 @@
 
 
 
-### Kudu
+### Presto、Trino
 #### 1）官网、社区、博客
-- [Kudu 官网](https://kudu.apache.org/)
+- [PrestoDB 官网](https://prestodb.io/)
+- [Trino 官网](https://trino.io/)     原PrestoSql
+- [Google Presto Group](https://groups.google.com/g/presto-users)
+- [Presto 知乎专栏](https://www.zhihu.com/column/presto-cn)
+- [若飞-技术博客](http://armsword.com/archives/)
 
 
 #### 2）专栏
-- [Kudu 原理](columns/kudu/Kudu%20原理.md)
-- [Kudu 相关论文](columns/kudu/Kudu%20相关论文.md)
+- [Presto 架构、源码分析专栏](columns/presto/Presto架构、源码分析专栏.md)
+- [Presto 最佳实践、调优、踩坑专栏](columns/presto/Presto最佳实践、调优、踩坑专栏.md)
+- [Presto 资料汇总、会议资讯专栏](columns/presto/Presto资料汇总、会议资讯专栏.md)
 
 
 #### 3）大厂实践
-
-
-#### 4）其他
-- [分布式存储系统 Kudu 与 HBase 的简要分析与对比](https://sq.163yun.com/blog/article/198870236065431552)    2018-11
-
-
-
-
-
-
+- [Presto 在车好多的实践](https://mp.weixin.qq.com/s/Bmqv54sVZgTqQ82I_RfmsA)    2020-12
+- [Presto 在滴滴的探索与实践](https://zhuanlan.zhihu.com/p/266162270)    2020-10
+- [Presto 在有赞的实践之路](https://tech.youzan.com/presto-zai-you-zan-de-shi-jian-zhi-lu/)    2020-04
+- [PrestoCon 2020：云原生数据湖分析DLA的Presto实践](https://zhuanlan.zhihu.com/p/260784762)    2020-03
+- [携程 Presto 技术演进之路](https://zhuanlan.zhihu.com/p/41538472)    2018-08
+- [Presto 实现原理和美团的使用实践](https://tech.meituan.com/2014/06/16/presto.html)    2014-06
+- [Presto 高性能引擎在美图的实践](https://zhuanlan.zhihu.com/p/408957032)    2021-09
 
 
 
 
-### HBase
-#### 1）官网、社区、博客
-- [HBase 官网](https://hbase.apache.org/)
-- [hbasefly](http://hbasefly.com/) 
+## 三、数据湖（IceBerg、Hudi、Delta等）
 
-
-#### 2）专栏
-
-
-#### 3）大厂实践
-
-
-#### 4）其他
-- [HBase Bulkload 实践探讨](https://tech.youzan.com/hbase-bulkloadshi-practice/)    2019-12
-
-
-
-
-
-
-
-
-### ClickHouse
-#### 1）官网、社区、博客
-- [ClickHouse 官网](https://clickhouse.com/)
-
-
-#### 2）专栏
-
-
-#### 3）大厂实践
-- [ClickHouse 在有赞的实践之路](https://tech.youzan.com/clickhouse-zai-you-zan-de-shi-jian-zhi-lu/)    2021-01
-
-
-#### 4）其他
-
-
-
-
-
-
-### Doris
-#### 1）官网、社区、博客
-- [Doris 官网](https://doris.apache.org/)
-- [Doris github](https://github.com/apache/doris)
-- [Doris 论坛](https://github.com/apache/incubator-doris/discussions)
-
-
-#### 2）专栏
-- [Doris全面解析](columns/doris/Doris全面解析.md)
-- [Doris最佳实践](columns/doris/Doris最佳实践.md)
-
-
-
-#### 3）案例实践
-- [Apache Doris在美团外卖数仓中的应用实践](https://tech.meituan.com/2020/04/09/doris-in-meituan-waimai.html)    2020-04
-- [Apache Doris 在韵达物流领域的应用实践](https://mp.weixin.qq.com/s/Z_PhWk92ctZ7slz4SrVZ9Q)    2021-07
-- [Apache Doris 在蜀海供应链的实践](https://mp.weixin.qq.com/s/SHuE-KCsIyh6jfo0DqLD6w)    2021-07
-- [京东物流基于 Doris 的亿级数据自助探索应用](https://mp.weixin.qq.com/s/qVFa40yMg0_N9Lsb10ACQA)    2021-07
-- [Doris on ES在快手商业化的最佳实践](https://mp.weixin.qq.com/s/5Pc5ewVFWPgauG4hNLH9xw)    2021-08
-- [基于Doris的有道精品课数据中台建设实践](https://mp.weixin.qq.com/s/Gz-au9CHJ4lHrs5MkzeAJg)    2020-12
-- [美团外卖实时数仓建设实践](https://mp.weixin.qq.com/s/-JPWqa_-at7F5hZ0zekVSQ)    2020-10
-- [Doris在作业帮实时数仓中的应用&实践](https://mp.weixin.qq.com/s/hjbMM8CbElO04VLN5cfJtQ)    2020-09
-- [基于Apache Doris的小米增长分析平台实践](https://mp.weixin.qq.com/s/WeNAItPJ4b7fsqW4kf0dSA)    2020-08
-- [Apache Doris在京东双十一大促中的实践](https://mp.weixin.qq.com/s/8XnwJXm4kzq56SvElwL6kA)    2020-03
-- [Apache Doris 在百度商业大规模微服务全链路监控的实践](https://mp.weixin.qq.com/s/k7CcCdHPTK1ZTDs_qKgh5w)    2020-02
-
-
-
-
-
-
-### StarRocks
-#### 1）官网、社区、博客
-- [StarRocks](https://www.starrocks.com/zh-CN/index)
-- [StarRocks文档](https://docs.starrocks.com/zh-cn/main/introduction/StarRocks_intro)
-- [编程小梦 康凯森](https://blog.bcmeng.com/)
-
-
-#### 2) 专栏
-- [StarRocks技术内幕](columns/starrocks/StarRocks技术内幕.md)
-
-
-
-
-
-
+- [一文看懂：什么是数据库、数据湖、数据仓库、湖仓一体、智能湖仓？](https://www.smartcity.team/consultingskills/experience/shujukuyushujuhu/#comments)    2021-08
 
 
 ### Iceberg
@@ -252,7 +223,6 @@
 
 
 
-
 ### Hudi
 #### 1）官网、社区、博客
 - [Hudi 官网](https://hudi.apache.org/)
@@ -263,33 +233,19 @@
 
 
 
+### Delta
 
 
 
 
-### Calcite
-#### 1）官网、社区、博客
-- [Calcite 官网](http://calcite.incubator.apache.org/)
+## 四、大数据开发、应用（主要包括ETL、调度、数仓、数据应用等，例如Seatunnel、Dolphinscheduler等）
 
-
-#### 2）应用
-- [Apache Calcite 处理流程详解（一）](https://matt33.com/2019/03/07/apache-calcite-process-flow/)    2019-03
-- [Apache Calcite 优化器详解（二）](https://matt33.com/2019/03/17/apache-calcite-planner/)    2019-03
-- [SQL 解析在美团的应用](https://tech.meituan.com/2018/05/20/sql-parser-used-in-mtdp.html)    2018-05
-
-
-
+### Seatunnel
 
 
 
 ### DolphinScheduler
 
-
-
-
-
-
-## 二、大数据应用
 
 
 ### 大数据架构
@@ -298,23 +254,32 @@
 
 
 
+
 ### 数仓相关
 - [有赞数据仓库实践之路](https://tech.youzan.com/dw-in-youzan/)    2020-03
 - [OneData 建设探索之路：SaaS 收银运营数仓建设](https://tech.meituan.com/2019/10/17/meituan-saas-data-warehouse.html)    2019-10
-- [有赞指标库实践](https://tech.youzan.com/you-zan-zhi-biao-ku-shi-jian/)    2020-03
-- [有赞 BI 平台实现原理](https://tech.youzan.com/principle-on-bi-platform/)    2021-01
 - [面向AI技术的工程架构实践 | 贝壳一站式大数据开发平台实践](https://www.infoq.cn/article/mmnwzdlcyjg83qm0tgqm)    2020-11
 
 
 
-### 数据治理、数据资产、元数据管理
+
+### 报表平台
+- [有赞 BI 平台实现原理](https://tech.youzan.com/principle-on-bi-platform/)    2021-01
+
+
+
+
+## 五、数据治理（元数据管理、数据模型、数据标准、数据质量、数据安全等）
+
+### 数据治理
 - [美团配送数据治理实践](https://tech.meituan.com/2020/03/12/delivery-data-governance.html)    2020-03
 - [全链路数据治理在网易严选的实践](https://www.infoq.cn/article/FOV6aEWRGNOfhD91YVcr)    2020-10
 - [数据资产、数据治理 - 有赞](https://tech.youzan.com/shu-ju-zi-chan-zan-zhi-zhi-li/)    2019-11
-- [浅谈有赞大数据安全体系](https://tech.youzan.com/you-zan-da-shu-ju-an-quan-ti-xi-jian-she-shi-jian/)    2021-01
 
 
-#### 元数据管理
+
+
+### 元数据管理
 - [有赞数据仓库元数据系统实践](https://tech.youzan.com/youzan-metadata/)    2018-08
 - [饿了么元数据管理实践之路](https://dbaplus.cn/news-73-2143-1.html)    2018-07
 - [数据治理方案技术调研 Atlas VS Datahub VS Amundsen](https://cloud.tencent.com/developer/article/1746714)    2020-11
@@ -324,26 +289,20 @@
 
 
 
-### 数据湖
-- [一文看懂：什么是数据库、数据湖、数据仓库、湖仓一体、智能湖仓？](https://www.smartcity.team/consultingskills/experience/shujukuyushujuhu/#comments)    2021-08
 
-
-
-### 推荐系统
-
-#### 基础
-- [从零开始了解推荐系统全貌](https://zhuanlan.zhihu.com/p/259985388)    2020-09
-- [基于内容的推荐算法](https://zhuanlan.zhihu.com/p/80068528)    2021-01
-
-
-#### 技术博客
-- [王喆的主页-推荐系统、计算广告与量化投资](http://wzhe.me/)    
-- [推荐系统干货总结](https://zhuanlan.zhihu.com/p/34004488)    2022-08
+### 数据标准
+- [有赞指标库实践](https://tech.youzan.com/you-zan-zhi-biao-ku-shi-jian/)    2020-03
 
 
 
 
-## 三、资源汇总
+### 数据安全
+- [浅谈有赞大数据安全体系](https://tech.youzan.com/you-zan-da-shu-ju-an-quan-ti-xi-jian-she-shi-jian/)    2021-01
+
+
+
+
+## 六、资源汇总
 
 ### 大厂技术博客
 - [美团技术团队](https://tech.meituan.com/)
