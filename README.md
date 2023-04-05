@@ -15,12 +15,12 @@
 
 ## 一、数据存储层、数据库（HDFS、Hive、HBase、Kudu、Doris、StarRocks、ClickHouse、TiDB等）
 
-### HDFS
+### ▶ HDFS
 
 
 
 
-### Hive
+### ▶ Hive
 #### 1）官网、社区、博客
 - [Hive 官网](https://hive.apache.org/)
 
@@ -36,7 +36,7 @@
 
 
 
-### HBase
+### ▶ HBase
 #### 1）官网、社区、博客
 - [HBase 官网](https://hbase.apache.org/)
 - [hbasefly](http://hbasefly.com/) 
@@ -54,7 +54,7 @@
 
 
 
-### Kudu
+### ▶ Kudu
 #### 1）官网、社区、博客
 - [Kudu 官网](https://kudu.apache.org/)
 
@@ -73,7 +73,7 @@
 
 
 
-### Doris
+### ▶ Doris
 #### 1）官网、社区、博客
 - [Doris 官网](https://doris.apache.org/)
 - [Doris github](https://github.com/apache/doris)
@@ -101,7 +101,7 @@
 
 
 
-### StarRocks
+### ▶ StarRocks
 #### 1）官网、社区、博客
 - [StarRocks](https://www.starrocks.com/zh-CN/index)
 - [StarRocks文档](https://docs.starrocks.com/zh-cn/main/introduction/StarRocks_intro)
@@ -114,7 +114,7 @@
 
 
 
-### ClickHouse
+### ▶ ClickHouse
 #### 1）官网、社区、博客
 - [ClickHouse 官网](https://clickhouse.com/)
 
@@ -133,7 +133,7 @@
 
 ## 二、数据处理层、OLAP引擎（Spark、Flink、Presto、Trino等）
 
-### Spark
+### ▶ Spark
 #### 1）官网、社区、博客
 - [Spark 官网](https://spark.apache.org/)
 
@@ -149,7 +149,7 @@
 
 
 
-### Flink
+### ▶ Flink
 #### 1）官网、社区、博客
 - [Flink 官网](https://flink.apache.org/)
 - [Flink Confluence](https://cwiki.apache.org/confluence/display/FLINK/)
@@ -171,13 +171,14 @@
 - [Apache Flink 漫谈系列](columns/flink/Apache%20Flink%20漫谈系列.md)
 - [Flink 相关论文](columns/flink/Flink%20相关论文.md)
 
+
 #### 3）大厂实践
 - [flink-forward-asia-hackathon-2021](https://github.com/flink-china/flink-forward-asia-hackathon-2021/issues)
 
 
 
 
-### Presto、Trino
+### ▶ Presto、Trino
 #### 1）官网、社区、博客
 - [PrestoDB 官网](https://prestodb.io/)
 - [Trino 官网](https://trino.io/)     原PrestoSql
@@ -209,7 +210,7 @@
 - [一文看懂：什么是数据库、数据湖、数据仓库、湖仓一体、智能湖仓？](https://www.smartcity.team/consultingskills/experience/shujukuyushujuhu/#comments)    2021-08
 
 
-### Iceberg
+### ▶ Iceberg
 #### 1）官网、社区、博客
 - [Iceberg 官网](https://iceberg.apache.org/)
 
@@ -223,7 +224,7 @@
 
 
 
-### Hudi
+### ▶ Hudi
 #### 1）官网、社区、博客
 - [Hudi 官网](https://hudi.apache.org/)
 
@@ -233,29 +234,29 @@
 
 
 
-### Delta
+### ▶ Delta
 
 
 
 
 ## 四、大数据开发、应用（主要包括ETL、调度、数仓、数据应用等，例如Seatunnel、Dolphinscheduler等）
 
-### Seatunnel
+### ▶ Seatunnel
 
 
 
-### DolphinScheduler
+### ▶ DolphinScheduler
 
 
 
-### 大数据架构
+### ▶ 大数据架构
 - [SQL on Hadoop 在快手大数据平台的实践与优化](https://www.infoq.cn/article/BN9cJjg1t-QSWE6fqkoR)    2019-06
 - [携程机票大数据架构最佳实践](https://dbaplus.cn/news-73-1420-1.html)    2017-08
 
 
 
 
-### 数仓相关
+### ▶ 数仓相关
 - [有赞数据仓库实践之路](https://tech.youzan.com/dw-in-youzan/)    2020-03
 - [OneData 建设探索之路：SaaS 收银运营数仓建设](https://tech.meituan.com/2019/10/17/meituan-saas-data-warehouse.html)    2019-10
 - [面向AI技术的工程架构实践 | 贝壳一站式大数据开发平台实践](https://www.infoq.cn/article/mmnwzdlcyjg83qm0tgqm)    2020-11
@@ -263,7 +264,7 @@
 
 
 
-### 报表平台
+### ▶ 报表平台
 - [有赞 BI 平台实现原理](https://tech.youzan.com/principle-on-bi-platform/)    2021-01
 
 
@@ -271,7 +272,7 @@
 
 ## 五、数据治理（元数据管理、数据模型、数据标准、数据质量、数据安全等）
 
-### 数据治理
+### ▶ 数据治理
 - [美团配送数据治理实践](https://tech.meituan.com/2020/03/12/delivery-data-governance.html)    2020-03
 - [全链路数据治理在网易严选的实践](https://www.infoq.cn/article/FOV6aEWRGNOfhD91YVcr)    2020-10
 - [数据资产、数据治理 - 有赞](https://tech.youzan.com/shu-ju-zi-chan-zan-zhi-zhi-li/)    2019-11
@@ -279,7 +280,7 @@
 
 
 
-### 元数据管理
+### ▶ 元数据管理
 - [有赞数据仓库元数据系统实践](https://tech.youzan.com/youzan-metadata/)    2018-08
 - [饿了么元数据管理实践之路](https://dbaplus.cn/news-73-2143-1.html)    2018-07
 - [数据治理方案技术调研 Atlas VS Datahub VS Amundsen](https://cloud.tencent.com/developer/article/1746714)    2020-11
@@ -290,13 +291,13 @@
 
 
 
-### 数据标准
+### ▶ 数据标准
 - [有赞指标库实践](https://tech.youzan.com/you-zan-zhi-biao-ku-shi-jian/)    2020-03
 
 
 
 
-### 数据安全
+### ▶ 数据安全
 - [浅谈有赞大数据安全体系](https://tech.youzan.com/you-zan-da-shu-ju-an-quan-ti-xi-jian-she-shi-jian/)    2021-01
 
 
@@ -304,24 +305,24 @@
 
 ## 六、资源汇总
 
-### 大厂技术博客
+### ▶ 大厂技术博客
 - [美团技术团队](https://tech.meituan.com/)
 - [有赞技术团队](https://tech.youzan.com/)
 - [滴滴云博客](https://blog.didiyun.com/)
 
 
 
-### 大数据相关网站
+### ▶ 大数据相关网站
 - [dbaplus](https://dbaplus.cn/)
 
 
 
-### 相关开源项目
+### ▶ 相关开源项目
 - [数仓相关开源项目汇总](columns/opensource/数仓相关开源项目汇总.md)
 
 
 
-### 相关论文
+### ▶ 相关论文
 - [raft 中文翻译](https://github.com/maemual/raft-zh_cn/blob/master/raft-zh_cn.md)
 
 
