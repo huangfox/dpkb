@@ -289,6 +289,7 @@
 - [数据治理方案技术调研 Atlas VS Datahub VS Amundsen](https://cloud.tencent.com/developer/article/1746714)    2020-11
 - [数据资产治理-元数据采集那点事 - 有赞](https://tech.youzan.com/zi-chan-zhi-li-yuan-shu-ju-cai-ji-na-dian-shi/)    2020-12
 - [来看看字节跳动内部的数据血缘用例与设计](https://segmentfault.com/a/1190000041452770)    2022-02
+- [携程数据血缘构建及应用](https://mp.weixin.qq.com/s/LGK3YPZCe6oPTf48QaAIqA)    2021-09
 - [Datahub](https://datahubproject.io/)    A Metadata Platform for the Modern Data Stack
 
 
