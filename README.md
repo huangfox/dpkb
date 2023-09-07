@@ -311,7 +311,6 @@
 ### ▶ 机器学习平台
 - [机器学习平台建设指南](https://mp.weixin.qq.com/s/HEg_6Gly2WMrcPD5Ao2n6g)    2021-04
 - [一站式机器学习平台建设实践](https://mp.weixin.qq.com/s/ZDRD0vAxkSqe4UeXi9avKQ)    2020-02
-  
 - [汽车之家机器学习平台的架构与实践](https://blog.csdn.net/hellozhxy/article/details/107210015)    2020-07
 - [微博推荐算法实践与机器学习平台演进](https://blog.csdn.net/m0_37586850/article/details/116465255)    2021-05
 - [爱奇艺机器学习平台的建设实践](https://mp.weixin.qq.com/s/Np4w7RC2JFlB7ZGIduu71w)    2020-11
