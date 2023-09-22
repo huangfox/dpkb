@@ -316,6 +316,7 @@
 - [爱奇艺机器学习平台的建设实践](https://mp.weixin.qq.com/s/Np4w7RC2JFlB7ZGIduu71w)    2020-11
 - [一站式机器学习平台在 vivo AI 的实践](https://www.infoq.cn/article/THlkStomYLRgXL2hzm8w)    2020-02
 - [再见，Yarn！滴滴机器学习平台架构演进](https://mp.weixin.qq.com/s/iTfHv8EFx4O4G1sNxsuMkg)    2019-03
+- [网易严选机器学习平台建设实践](https://www.6aiq.com/article/1661745581086)    2022
 
 
 
