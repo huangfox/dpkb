@@ -7,7 +7,7 @@
 * 大数据开发、应用（主要包括ETL、调度、数仓、数据应用等，例如Seatunnel、Dolphinscheduler等）
 * 数据治理（元数据管理、数据模型、数据标准、数据质量、数据安全等）
 
-持续更新中（2023-09）
+持续更新中（2023-10）
 
 
 
@@ -30,7 +30,7 @@
 
 
 #### 3）大厂实践
-- [HiveCube 在有赞的实践](https://tech.youzan.com/cube/)    2019-07
+- [HiveCube 在有赞的实践](https://tech.youzan.com/cube/)    2019-11
 - [Hive Metastore Federation 在滴滴的实践](https://blog.didiyun.com/index.php/2019/03/25/hive-metastore-federation/)    2019-03
 
 
@@ -255,7 +255,7 @@
 ### ▶ 大数据架构
 - [SQL on Hadoop 在快手大数据平台的实践与优化](https://www.infoq.cn/article/BN9cJjg1t-QSWE6fqkoR)    2019-06
 - [携程机票大数据架构最佳实践](https://dbaplus.cn/news-73-1420-1.html)    2017-08
-
+- [火山引擎DataLeap一站式数据治理解决方案及平台架构](https://www.cnblogs.com/bytedata/p/17745908.html)    2023-10
 
 
 
@@ -284,6 +284,7 @@
 
 
 ### ▶ 元数据管理
+- [字节跳动构建Data Catalog数据目录系统的实践](https://www.cnblogs.com/bytedata/p/16189474.html)    2022-04
 - [有赞数据仓库元数据系统实践](https://tech.youzan.com/youzan-metadata/)    2018-08
 - [饿了么元数据管理实践之路](https://dbaplus.cn/news-73-2143-1.html)    2018-07
 - [数据治理方案技术调研 Atlas VS Datahub VS Amundsen](https://cloud.tencent.com/developer/article/1746714)    2020-11
@@ -314,9 +315,12 @@
 - [汽车之家机器学习平台的架构与实践](https://blog.csdn.net/hellozhxy/article/details/107210015)    2020-07
 - [微博推荐算法实践与机器学习平台演进](https://blog.csdn.net/m0_37586850/article/details/116465255)    2021-05
 - [爱奇艺机器学习平台的建设实践](https://mp.weixin.qq.com/s/Np4w7RC2JFlB7ZGIduu71w)    2020-11
+- [爱奇艺一站式机器学习平台Deepthought的建设与初探](https://mp.weixin.qq.com/s?__biz=MzI0MjczMjM2NA==&mid=2247487206&idx=1&sn=c8db1e12378376722a1521f409149d44&chksm=e97692c5de011bd3f1b42a8112cd04c24907cb101ac5474b0054c95941ff5c4769a42d496f3a&scene=21#wechat_redirect)    2020-06
 - [一站式机器学习平台在 vivo AI 的实践](https://www.infoq.cn/article/THlkStomYLRgXL2hzm8w)    2020-02
 - [再见，Yarn！滴滴机器学习平台架构演进](https://mp.weixin.qq.com/s/iTfHv8EFx4O4G1sNxsuMkg)    2019-03
 - [网易严选机器学习平台建设实践](https://www.6aiq.com/article/1661745581086)    2022
+- [Sunfish-有赞智能平台实践](https://tech.youzan.com/sunfish/)    2020-06
+
 
 
 
