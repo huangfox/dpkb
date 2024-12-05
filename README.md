@@ -7,7 +7,7 @@
 * 大数据开发、应用（主要包括ETL、调度、数仓、数据应用等，例如Seatunnel、Dolphinscheduler等）
 * 数据治理（元数据管理、数据模型、数据标准、数据质量、数据安全等）
 
-持续更新中（2023-11）
+持续更新中（2024-12）
 
 
 
@@ -17,6 +17,11 @@
 
 ### ▶ HDFS
 
+
+
+### ▶ Yarn
+#### 1）原理
+- [Hadoop Yarn 一文搞懂 Yarn架构原理和工作机制](https://www.cnblogs.com/liangzilx/p/14837562.html)
 
 
 
@@ -273,13 +278,18 @@
 
 
 
-## 五、数据治理（元数据管理、数据模型、数据标准、数据质量、数据安全等）
+## 五、数据治理（元数据管理、数据指标、数据标准、数据质量、数据安全等）
 
 ### ▶ 数据治理
 - [美团配送数据治理实践](https://tech.meituan.com/2020/03/12/delivery-data-governance.html)    2020-03
 - [全链路数据治理在网易严选的实践](https://www.infoq.cn/article/FOV6aEWRGNOfhD91YVcr)    2020-10
 - [数据资产、数据治理 - 有赞](https://tech.youzan.com/shu-ju-zi-chan-zan-zhi-zhi-li/)    2019-11
+- [美团酒旅起源数据治理平台的建设与实践](https://tech.meituan.com/2018/12/27/onedata-origin.html)    2018-12
 
+- [滴滴数据仓库指标体系建设实践](https://mp.weixin.qq.com/s/-pLpLD_HMiasyyRxo5oTRQ)    2020-08
+- [有赞指标库实践](https://tech.youzan.com/you-zan-zhi-biao-ku-shi-jian/)    2020-03
+
+- [浅谈有赞大数据安全体系](https://tech.youzan.com/you-zan-da-shu-ju-an-quan-ti-xi-jian-she-shi-jian/)    2021-01
 
 
 
@@ -296,16 +306,6 @@
 
 
 
-### ▶ 数据标准
-- [有赞指标库实践](https://tech.youzan.com/you-zan-zhi-biao-ku-shi-jian/)    2020-03
-
-
-
-
-### ▶ 数据安全
-- [浅谈有赞大数据安全体系](https://tech.youzan.com/you-zan-da-shu-ju-an-quan-ti-xi-jian-she-shi-jian/)    2021-01
-
-
 
 ## 六、机器学习、AI
 
@@ -320,11 +320,22 @@
 - [再见，Yarn！滴滴机器学习平台架构演进](https://mp.weixin.qq.com/s/iTfHv8EFx4O4G1sNxsuMkg)    2019-03
 - [网易严选机器学习平台建设实践](https://www.6aiq.com/article/1661745581086)    2022
 - [Sunfish-有赞智能平台实践](https://tech.youzan.com/sunfish/)    2020-06
+- [同程-利用已有的大数据技术，如何构建机器学习平台](https://www.infoq.cn/news/build-machine-learning-platform-bigdata)    2017-11
 
 
 
 
-## 七、资源汇总
+## 七、LLM应用
+
+### ▶ Text2SQL
+- [NL2SQL基础系列(1)：业界顶尖排行榜、权威测评数据集及LLM大模型（Spider vs BIRD）全面对比优劣分析](https://blog.csdn.net/sinat_39620217/article/details/137603846)
+- [NL2SQL基础系列(2)：主流大模型与微调方法精选集，Text2SQL经典算法技术回顾七年发展脉络梳理](https://blog.csdn.net/sinat_39620217/article/details/137603958)
+- [NL2SQL进阶系列(1)：DB-GPT-Hub、SQLcoder、Text2SQL开源应用实践详解](https://blog.csdn.net/sinat_39620217/article/details/137674671)
+
+
+
+
+## 八、资源汇总
 
 ### ▶ 大厂技术博客
 - [美团技术团队](https://tech.meituan.com/)
